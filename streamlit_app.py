@@ -7,7 +7,7 @@ st.markdown('Данная сборка модели обучена на ариф
 text = st.text_input('Введите формулу словами', value="два икс плюс три")
 
 def translate(string):
-    return 'x^2'
+    return string
 
 if st.button('Показать формулу'):
     ans = translate(text)
@@ -18,3 +18,4 @@ if st.button('Показать формулу'):
     st.latex(ans)
 
 st.text('Баги и идеи на github:')
+st.text('Вячеслав Сергеев. sergeev46v@gmail.com')
