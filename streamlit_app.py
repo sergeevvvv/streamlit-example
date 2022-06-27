@@ -17,5 +17,5 @@ if st.button('Показать формулу'):
     st.text('Зарендеренная формула:')
     st.latex(ans)
 
-st.text('Баги и идеи на github:')
+st.text('Баги и идеи (github): https://github.com/sergeevvvv/MathMT/issues')
 st.text('Вячеслав Сергеев. sergeev46v@gmail.com')
