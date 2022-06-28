@@ -1,0 +1,1624 @@
+,id,latex,path
+0,0,\sin(x)-\pi ,/latexf/short/0.png
+1,1,s=1+2s.,/latexf/short/1.png
+2,2,|0|=0,/latexf/short/2.png
+3,3,\{a_{n}\},/latexf/short/3.png
+4,4,f(O)\in {\mathcal {B}},/latexf/short/4.png
+5,5,\hbar ,/latexf/short/5.png
+6,6,p^{2},/latexf/short/6.png
+7,7,\operatorname {inv} (x),/latexf/short/7.png
+8,8,\theta ^{2},/latexf/short/8.png
+9,9,"~(k_{x},k_{y})",/latexf/short/9.png
+10,10,s=-1.,/latexf/short/10.png
+11,11,\mathbb {Z} _{15},/latexf/short/11.png
+12,12,"n\geq m\Leftrightarrow m|n,",/latexf/short/12.png
+13,13,\mathbf {v} _{0},/latexf/short/13.png
+14,14,"v=r\omega ,",/latexf/short/14.png
+15,15,"t \tan x\,dx",/latexf/short/15.png
+16,16,m (a_{n}+|a_{n}|),/latexf/short/16.png
+17,17,\mathbb {A} _{A}^{\times }.,/latexf/short/17.png
+18,18,E\subseteq K\subseteq F,/latexf/short/18.png
+19,19,v\neq v_{0},/latexf/short/19.png
+20,20,(a).,/latexf/short/20.png
+21,21,v(\alpha '_{v})=0,/latexf/short/21.png
+22,22,t=1,/latexf/short/22.png
+23,23,F_{1},/latexf/short/23.png
+24,24,G=0,/latexf/short/24.png
+25,25,O_{v},/latexf/short/25.png
+26,26,|x|=-x,/latexf/short/26.png
+27,27,2\pi r,/latexf/short/27.png
+28,28,"A\times A,",/latexf/short/28.png
+29,29,f(k_{1}+k_{2}),/latexf/short/29.png
+30,30,"\{a'\}=M\{a\}\oplus \{v\},",/latexf/short/30.png
+31,31,"f(x,y)={\frac {x+y}{2}},",/latexf/short/31.png
+32,32,\alpha _{v}\times \alpha _{v},/latexf/short/32.png
+33,33,n_{i}>1.,/latexf/short/33.png
+34,34,E^{\star },/latexf/short/34.png
+35,35,0.111\ldots ,/latexf/short/35.png
+36,36,"a,b\in K",/latexf/short/36.png
+37,37,"\pi r(r+l)\,\!",/latexf/short/37.png
+38,38,\left|f'(t)\right|,/latexf/short/38.png
+39,39,\operatorname {Re} \alpha >0,/latexf/short/39.png
+40,40,XYXYX,/latexf/short/40.png
+41,41,{\frac {1}{2^{n}}},/latexf/short/41.png
+42,42,F(x)-G(x)=C,/latexf/short/42.png
+43,43,a\cdot b=b\cdot a=e,/latexf/short/43.png
+44,44,1,/latexf/short/44.png
+45,45,c(x)=1+xc(x)^{2};,/latexf/short/45.png
+46,46,\mathbb {Q} ({\sqrt {d}}),/latexf/short/46.png
+47,47,X_{i}.,/latexf/short/47.png
+48,48,"\int _{a}^{b}\cdots \,dx",/latexf/short/48.png
+49,49,m _{b=1}^{B}I_{b},/latexf/short/49.png
+50,50,t,/latexf/short/50.png
+51,51,\operatorname {Cl} _{K},/latexf/short/51.png
+52,52,"\varphi :X\mapsto y,",/latexf/short/52.png
+53,53,"a,b,c\rightarrow 0",/latexf/short/53.png
+54,54,L_{v},/latexf/short/54.png
+55,55,t_{j},/latexf/short/55.png
+56,56,aRb\Leftrightarrow bRa,/latexf/short/56.png
+57,57,"i=1,\ldots ,k,",/latexf/short/57.png
+58,58,\mathbf {r} _{i},/latexf/short/58.png
+59,59,"A,B",/latexf/short/59.png
+60,60,"z(t)=r(t)+ix(t),",/latexf/short/60.png
+61,61,p_{z},/latexf/short/61.png
+62,62,\theta ={\frac {2\pi r}{r}},/latexf/short/62.png
+63,63,{\mathcal {L}},/latexf/short/63.png
+64,64,P=P_{\infty },/latexf/short/64.png
+65,65,\lim _{x\to c}f(x)=f(c).,/latexf/short/65.png
+66,66,"\beta \in U\cap \mathbb {Q} ,",/latexf/short/66.png
+67,67,"C>1,",/latexf/short/67.png
+68,68,=r\omega ,/latexf/short/68.png
+69,69,m _{j=1}^{C}\tau _{j}=0,/latexf/short/69.png
+70,70,f(x)=2x+1,/latexf/short/70.png
+71,71,"1,2,3,6.",/latexf/short/71.png
+72,72,x^{-1},/latexf/short/72.png
+73,73,v_{\perp },/latexf/short/73.png
+74,74,L/K.,/latexf/short/74.png
+75,75,"p(t)=[r*v](t),",/latexf/short/75.png
+76,76,{\frac {1}{2}},/latexf/short/76.png
+77,77,"x={\frac {2\,t}{1+t^{2}}}",/latexf/short/77.png
+78,78,"\int _{a}^{b}f(x)\,dx.",/latexf/short/78.png
+79,79,\mathbf {R} ,/latexf/short/79.png
+80,80,C=\pi d.,/latexf/short/80.png
+81,81,t.,/latexf/short/81.png
+82,82,R,/latexf/short/82.png
+83,83,\times ,/latexf/short/83.png
+84,84,"1,2,3,6,9,18,27,54",/latexf/short/84.png
+85,85,"4\pi A\leq L^{2},",/latexf/short/85.png
+86,86,|a_{p}|_{p}=1,/latexf/short/86.png
+87,87,"nx_{2}=0,",/latexf/short/87.png
+88,88,"z=f(x,y),",/latexf/short/88.png
+89,89,u^{1}=u,/latexf/short/89.png
+90,90,K\subseteq \mathbb {C} ,/latexf/short/90.png
+91,91,2k_{y},/latexf/short/91.png
+92,92,x^{yz}=x^{(yz)},/latexf/short/92.png
+93,93,C,/latexf/short/93.png
+94,94,"(\mathbb {R} ,+)",/latexf/short/94.png
+95,95,C_{K}\ =\ I_{K}/K^{\times }.,/latexf/short/95.png
+96,96,L_{eq}=L+0.85d,/latexf/short/96.png
+97,97,\mathbb {Z} /n\mathbb {Z} ,/latexf/short/97.png
+98,98,k=2\pi f/v,/latexf/short/98.png
+99,99,m_{i},/latexf/short/99.png
+100,100,(f+g)(x)=f(x)+g(x),/latexf/short/100.png
+101,101,v<\infty .,/latexf/short/101.png
+102,102,"{\hat {o}}(x,y)",/latexf/short/102.png
+103,103,"\iota ,R^{\times }",/latexf/short/103.png
+104,104,"a+\max(b,c)=\max(a+b,a+c).",/latexf/short/104.png
+105,105,"s(x,y)",/latexf/short/105.png
+106,106,p\in \mathbf {Z} ,/latexf/short/106.png
+107,107,"I_{K,S}",/latexf/short/107.png
+108,108,i+{\frac {b}{2}}-1,/latexf/short/108.png
+109,109,r,/latexf/short/109.png
+110,110,k,/latexf/short/110.png
+111,111,|f(x)-L|<\varepsilon ,/latexf/short/111.png
+112,112,*,/latexf/short/112.png
+113,113,\mathbb {Q} /\mathbb {Z} ,/latexf/short/113.png
+114,114,a>0,/latexf/short/114.png
+115,115,a_{p}\in \mathbb {Z} _{p},/latexf/short/115.png
+116,116,\mu ^{\lambda }=\kappa ,/latexf/short/116.png
+117,117,y=f(t).,/latexf/short/117.png
+118,118,l\in \mathbb {Z} ,/latexf/short/118.png
+119,119,g'(x)\neq 0,/latexf/short/119.png
+120,120,\Delta t,/latexf/short/120.png
+121,121,\mathbb {A} _{E}.,/latexf/short/121.png
+122,122,\div ,/latexf/short/122.png
+123,123,\delta ,/latexf/short/123.png
+124,124,x^{3},/latexf/short/124.png
+125,125,{\frac {\sqrt {n}}{2}},/latexf/short/125.png
+126,126,I_{K}\to I_{L},/latexf/short/126.png
+127,127,K_{v}^{\times },/latexf/short/127.png
+128,128,\lim _{n\to \infty }a_{n}=0,/latexf/short/128.png
+129,129,m-n,/latexf/short/129.png
+130,130,"\operatorname {lcm} (m,n)",/latexf/short/130.png
+131,131,a=0,/latexf/short/131.png
+132,132,a\in A,/latexf/short/132.png
+133,133,"\lim _{x\to -\infty }f(x)=L,",/latexf/short/133.png
+134,134,f-g,/latexf/short/134.png
+135,135,p.,/latexf/short/135.png
+136,136,u\in U,/latexf/short/136.png
+137,137,prod _{p}p^{b_{p}},/latexf/short/137.png
+138,138,\beta _{v}=\lambda ^{-1},/latexf/short/138.png
+139,139,p_{y},/latexf/short/139.png
+140,140,O_{v}:,/latexf/short/140.png
+141,141,|a_{n+1}|\leq |a_{n}|,/latexf/short/141.png
+142,142,n\neq 0.,/latexf/short/142.png
+143,143,[K:\mathbb {Q} ]=r+2s.,/latexf/short/143.png
+144,144,\left\vert c_{n}\right\vert ,/latexf/short/144.png
+145,145,10+5i,/latexf/short/145.png
+146,146,\mathbf {v} _{i},/latexf/short/146.png
+147,147,P\supset P_{\infty },/latexf/short/147.png
+148,148,q\neq p,/latexf/short/148.png
+149,149,\mathbf {x} ,/latexf/short/149.png
+150,150,\sin a\sin b,/latexf/short/150.png
+151,151,"S,I_{K,S}",/latexf/short/151.png
+152,152,v\notin P.,/latexf/short/152.png
+153,153,-4b)+b=180,/latexf/short/153.png
+154,154,\scriptstyle b,/latexf/short/154.png
+155,155,"\langle \cdot ,\cdot \rangle ",/latexf/short/155.png
+156,156,\pm 1,/latexf/short/156.png
+157,157,\scriptstyle 2b,/latexf/short/157.png
+158,158,-n,/latexf/short/158.png
+159,159,x_{i}^{n_{i}}\in F_{i-1},/latexf/short/159.png
+160,160,x=-1,/latexf/short/160.png
+161,161,\mathbb {A} _{K},/latexf/short/161.png
+162,162,\mathbb {Q} (\theta ),/latexf/short/162.png
+163,163,s=\theta ,/latexf/short/163.png
+164,164,"1,x,x^{2},x^{3},\ldots ",/latexf/short/164.png
+165,165,k_{T}<k,/latexf/short/165.png
+166,166,m a_{n},/latexf/short/166.png
+167,167,\pi ,/latexf/short/167.png
+168,168,\operatorname {Im} (z)=y,/latexf/short/168.png
+169,169,\sum _{i\in I}\lambda _{i}=1,/latexf/short/169.png
+170,170,|g(x)-b|>0,/latexf/short/170.png
+171,171,"\mathbb {A} _{E}',",/latexf/short/171.png
+172,172,"f(x),",/latexf/short/172.png
+173,173,K_{i},/latexf/short/173.png
+174,174,e_{i}=1,/latexf/short/174.png
+175,175,g_{i}\cdot g_{j},/latexf/short/175.png
+176,176,ega ={\frac {v}{r}},/latexf/short/176.png
+177,177,O\in {\mathcal {A}},/latexf/short/177.png
+178,178,\operatorname {Re} \alpha =0,/latexf/short/178.png
+179,179,\varepsilon \to 0,/latexf/short/179.png
+180,180,({\mathcal {P}}f)(x)=f(-x),/latexf/short/180.png
+181,181,f(x_{n}),/latexf/short/181.png
+182,182,d=b=1,/latexf/short/182.png
+183,183,"2S=(A+B+C),",/latexf/short/183.png
+184,184,"\beta \in (-1,1)",/latexf/short/184.png
+185,185,v(\xi _{v})=0,/latexf/short/185.png
+186,186,\mathbb {Q} ^{2},/latexf/short/186.png
+187,187,\mathbb {Z} _{p},/latexf/short/187.png
+188,188,\cos A,/latexf/short/188.png
+189,189,\mathbb {Q} _{r},/latexf/short/189.png
+190,190,\mathbf {b} ,/latexf/short/190.png
+191,191,{\frac {\pi }{2}}+2n\pi ,/latexf/short/191.png
+192,192,d=-1,/latexf/short/192.png
+193,193,XXYXY,/latexf/short/193.png
+194,194,e_{m},/latexf/short/194.png
+195,195,k\in K,/latexf/short/195.png
+196,196,w|v.,/latexf/short/196.png
+197,197,|\beta |\leq \delta _{v},/latexf/short/197.png
+198,198,\delta t,/latexf/short/198.png
+199,199,S_{2n},/latexf/short/199.png
+200,200,"(A,\cdot )",/latexf/short/200.png
+201,201,\mathbf {L} ,/latexf/short/201.png
+202,202,2s=(a+b+c),/latexf/short/202.png
+203,203,e_{k}\in {\hat {T}},/latexf/short/203.png
+204,204,\ L\ ,/latexf/short/204.png
+205,205,\mathbb {A} _{A}^{\times },/latexf/short/205.png
+206,206,{\mathcal {S}}_{n}.,/latexf/short/206.png
+207,207,S,/latexf/short/207.png
+208,208,O,/latexf/short/208.png
+209,209,s={\frac {1}{4}},/latexf/short/209.png
+210,210,v_{0},/latexf/short/210.png
+211,211,2\pi r(r+h),/latexf/short/211.png
+212,212,\mathbb {A} _{E},/latexf/short/212.png
+213,213,x=t,/latexf/short/213.png
+214,214,A_{j}:I_{j}\to A,/latexf/short/214.png
+215,215,\mathbb {R} .,/latexf/short/215.png
+216,216,"lpha _{o},\beta _{o})",/latexf/short/216.png
+217,217,e^{\star }\in E^{\star }.,/latexf/short/217.png
+218,218,"A(t)=e^{Wt}A(0),",/latexf/short/218.png
+219,219,P\supset P_{0}.,/latexf/short/219.png
+220,220,T,/latexf/short/220.png
+221,221,\operatorname {con} _{L/K},/latexf/short/221.png
+222,222,{\mathcal {U}},/latexf/short/222.png
+223,223,k_{3},/latexf/short/223.png
+224,224,\Omega (P),/latexf/short/224.png
+225,225,L=I\omega .,/latexf/short/225.png
+226,226,\infty ,/latexf/short/226.png
+227,227,nA=0,/latexf/short/227.png
+228,228,|P_{\infty }|=r+s.,/latexf/short/228.png
+229,229,k\in \mathbb {Z} ,/latexf/short/229.png
+230,230,a_{p}/c\in \mathbf {Z} _{p},/latexf/short/230.png
+231,231,"\operatorname {lcm} (4,6)",/latexf/short/231.png
+232,232,"d_{1,1},\ldots ,d_{k,k}",/latexf/short/232.png
+233,233,\sum _{n=1}^{\infty }n^{0},/latexf/short/233.png
+234,234,{\frac {1}{2}}.,/latexf/short/234.png
+235,235,i=x,/latexf/short/235.png
+236,236,O((\log a+\log b)^{2}),/latexf/short/236.png
+237,237,\log(n+1)-\log n,/latexf/short/237.png
+238,238,"w|v,",/latexf/short/238.png
+239,239,s\in \mathbb {Z} ,/latexf/short/239.png
+240,240,\mathbf {V} _{i},/latexf/short/240.png
+241,241,(F)X_{d}(L),/latexf/short/241.png
+242,242,\lim _{x\to a}g(x)=b,/latexf/short/242.png
+243,243,"m=2,3",/latexf/short/243.png
+244,244,mn,/latexf/short/244.png
+245,245,1\in K_{v}^{\times },/latexf/short/245.png
+246,246,"x\in K_{v}^{\times },",/latexf/short/246.png
+247,247,\{e_{k}\mid k\in Z\},/latexf/short/247.png
+248,248,"F\,'(x)=G\,'(x)",/latexf/short/248.png
+249,249,"0.999\ldots =1,",/latexf/short/249.png
+250,250,2^{3}\neq 3^{2},/latexf/short/250.png
+251,251,"\mathbf {x} (u,v)",/latexf/short/251.png
+252,252,f(x)>N,/latexf/short/252.png
+253,253,k\in \mathbb {N} ,/latexf/short/253.png
+254,254,I,/latexf/short/254.png
+255,255,x>0,/latexf/short/255.png
+256,256,YXXYX,/latexf/short/256.png
+257,257,1+2=3,/latexf/short/257.png
+258,258,F_{i}=F_{i-1}(x_{i}),/latexf/short/258.png
+259,259,N,/latexf/short/259.png
+260,260,X_{d},/latexf/short/260.png
+261,261,a_{i}=1,/latexf/short/261.png
+262,262,E_{y},/latexf/short/262.png
+263,263,"Z(s)=R(s)+iX(s),",/latexf/short/263.png
+264,264,a_{\nu },/latexf/short/264.png
+265,265,\mathbb {Z} _{p^{2}},/latexf/short/265.png
+266,266,\ f\ ,/latexf/short/266.png
+267,267,M\subset \mathbb {C} ,/latexf/short/267.png
+268,268,\mathbb {R} ^{*},/latexf/short/268.png
+269,269,{\mathcal {O}}_{K},/latexf/short/269.png
+270,270,\rho \circ j=W\rho W^{*}.,/latexf/short/270.png
+271,271,\scriptstyle x+e,/latexf/short/271.png
+272,272,"f:[a,b]\to \mathbb {R} ^{n}",/latexf/short/272.png
+273,273,\epsilon =h\sin \theta ,/latexf/short/273.png
+274,274,x\in A.,/latexf/short/274.png
+275,275,b_{n}\geq b_{n+1},/latexf/short/275.png
+276,276,"L=r\sin(\theta )mv,",/latexf/short/276.png
+277,277,\cos(x),/latexf/short/277.png
+278,278,"f,g:G\to H",/latexf/short/278.png
+279,279,T(A)\oplus A/T(A),/latexf/short/279.png
+280,280,U_{v}\subset K_{v},/latexf/short/280.png
+281,281,{\cal {L}},/latexf/short/281.png
+282,282,L/K,/latexf/short/282.png
+283,283,"I_{K},",/latexf/short/283.png
+284,284,K^{\times },/latexf/short/284.png
+285,285,\aleph ,/latexf/short/285.png
+286,286,\mathbb {Z} [\alpha ],/latexf/short/286.png
+287,287,xRy,/latexf/short/287.png
+288,288,{\sqrt {s(s-a)(s-b)(s-c)}},/latexf/short/288.png
+289,289,xy,/latexf/short/289.png
+290,290,\mathbb {A} _{K}.,/latexf/short/290.png
+291,291,\psi (x),/latexf/short/291.png
+292,292,K^{\times }.,/latexf/short/292.png
+293,293,\mathbb {A} _{K}(P),/latexf/short/293.png
+294,294,C_{0}=\lim _{x\to 0}c(x)=1,/latexf/short/294.png
+295,295,"0,",/latexf/short/295.png
+296,296,|a|_{v}=1.,/latexf/short/296.png
+297,297,\mathbb {R} ^{2},/latexf/short/297.png
+298,298,"lpha _{i},\beta _{i})",/latexf/short/298.png
+299,299,p(x),/latexf/short/299.png
+300,300,"S(r,k)",/latexf/short/300.png
+301,301,"1,2,3,4,6,8,12,24",/latexf/short/301.png
+302,302,P_{\infty },/latexf/short/302.png
+303,303,\nabla ^{2},/latexf/short/303.png
+304,304,x_{1}\neq x_{2},/latexf/short/304.png
+305,305,\quad k\geq n>0,/latexf/short/305.png
+306,306,"b=(b_{1},b_{2},\dots ,b_{n})",/latexf/short/306.png
+307,307,P\supset P_{\infty }.,/latexf/short/307.png
+308,308,"a,b\in F",/latexf/short/308.png
+309,309,\prod _{v}|a|_{v}=1.,/latexf/short/309.png
+310,310,x_{i}\in F_{i},/latexf/short/310.png
+311,311,F(x)=\ln |x|+c,/latexf/short/311.png
+312,312,j=n-k,/latexf/short/312.png
+313,313,A(0)=A_{0}/0!=1,/latexf/short/313.png
+314,314,\sin b\sin A=\sin a\sin B,/latexf/short/314.png
+315,315,t_{i}=a+i(b-a)/N=a+i\Delta t,/latexf/short/315.png
+316,316,\mathbf {A} _{\mathbf {Z} },/latexf/short/316.png
+317,317,p_{4},/latexf/short/317.png
+318,318,\{\varphi _{n}(x)\},/latexf/short/318.png
+319,319,O\mapsto O',/latexf/short/319.png
+320,320,k_{z},/latexf/short/320.png
+321,321,x\in {\mathfrak {p}}^{n},/latexf/short/321.png
+322,322,u=w/t,/latexf/short/322.png
+323,323,a,/latexf/short/323.png
+324,324,\mathbb {R} ,/latexf/short/324.png
+325,325,x-a,/latexf/short/325.png
+326,326,"(k,a)\mapsto \eta (k)a.",/latexf/short/326.png
+327,327,f/g,/latexf/short/327.png
+328,328,(\cdot ),/latexf/short/328.png
+329,329,1-2+4-8\ldots ,/latexf/short/329.png
+330,330,U_{v}=O_{v}^{\times },/latexf/short/330.png
+331,331,a_{1},/latexf/short/331.png
+332,332,{\mathcal {A}},/latexf/short/332.png
+333,333,{\hat {f}}_{3}(\omega ),/latexf/short/333.png
+334,334,\{x_{n}\}_{n\in \mathbb {N} },/latexf/short/334.png
+335,335,\sin b\sin c\sin A,/latexf/short/335.png
+336,336,"K\to \mathbb {A} _{K},",/latexf/short/336.png
+337,337,f_{v}=\mathbf {1} _{O_{v}},/latexf/short/337.png
+338,338,b_{1},/latexf/short/338.png
+339,339,\star 1,/latexf/short/339.png
+340,340,x_{n}-a\notin U,/latexf/short/340.png
+341,341,v.,/latexf/short/341.png
+342,342,e^{\star }\mapsto e',/latexf/short/342.png
+343,343,\mathbb {R} _{+},/latexf/short/343.png
+344,344,"f(f(-4,0),+4)=+1",/latexf/short/344.png
+345,345,\rho _{S},/latexf/short/345.png
+346,346,\operatorname {Re} (z)=x,/latexf/short/346.png
+347,347,"a=(a_{1},a_{2},\dots ,a_{n})",/latexf/short/347.png
+348,348,|x|=-x>0,/latexf/short/348.png
+349,349,\delta \approx d/D,/latexf/short/349.png
+350,350,"\lim _{x\to a}f(x)=\infty ,",/latexf/short/350.png
+351,351,n,/latexf/short/351.png
+352,352,[L:K],/latexf/short/352.png
+353,353,G/Z(G),/latexf/short/353.png
+354,354,P(-2)>0,/latexf/short/354.png
+355,355,a\in F,/latexf/short/355.png
+356,356,\sin c,/latexf/short/356.png
+357,357,"{\frac {1}{12{\sqrt {3}}}},",/latexf/short/357.png
+358,358,A=I+d\Phi (t),/latexf/short/358.png
+359,359,\omega _{z},/latexf/short/359.png
+360,360,\operatorname {Cl} _{K}.,/latexf/short/360.png
+361,361,10\pm 5i,/latexf/short/361.png
+362,362,P_{\infty }\cup \{v\}.,/latexf/short/362.png
+363,363,\alpha _{v}=1,/latexf/short/363.png
+364,364,s=\pi r.,/latexf/short/364.png
+365,365,A_{v},/latexf/short/365.png
+366,366,C_{n},/latexf/short/366.png
+367,367,{\mathcal {F}}f:={\hat {f}},/latexf/short/367.png
+368,368,B_{2m},/latexf/short/368.png
+369,369,\mathbf {Q} ,/latexf/short/369.png
+370,370,p_{3},/latexf/short/370.png
+371,371,YXYXX,/latexf/short/371.png
+372,372,-m\cdot z\cdot \omega ^{2},/latexf/short/372.png
+373,373,\mathbb {Q} (\zeta _{n}),/latexf/short/373.png
+374,374,2B+Ph,/latexf/short/374.png
+375,375,\delta -\epsilon ,/latexf/short/375.png
+376,376,"E(0,0)=1",/latexf/short/376.png
+377,377,"b_{n}=T_{n,n}",/latexf/short/377.png
+378,378,\omega _{2},/latexf/short/378.png
+379,379,f^{*},/latexf/short/379.png
+380,380,1+2+4+8+\cdots ,/latexf/short/380.png
+381,381,\xi \in K^{\times },/latexf/short/381.png
+382,382,\{e_{k}\}(k\in Z),/latexf/short/382.png
+383,383,|\cdot |_{n}.,/latexf/short/383.png
+384,384,"\operatorname {GL} (n,K)",/latexf/short/384.png
+385,385,"\xi ,",/latexf/short/385.png
+386,386,\sin ^{2}A=1-\cos ^{2}A,/latexf/short/386.png
+387,387,j,/latexf/short/387.png
+388,388,x=1,/latexf/short/388.png
+389,389,0+1+2+3+\ldots =0+x=x,/latexf/short/389.png
+390,390,x(t)=x_{L}(t)-x_{C}(t).,/latexf/short/390.png
+391,391,k\in Z,/latexf/short/391.png
+392,392,\Delta x,/latexf/short/392.png
+393,393,\lambda \mapsto z(\lambda ),/latexf/short/393.png
+394,394,P(-1)<0,/latexf/short/394.png
+395,395,1+1+1+\ldots =x-x=0,/latexf/short/395.png
+396,396,"(x,y,z)",/latexf/short/396.png
+397,397,{\hat {f}},/latexf/short/397.png
+398,398,"v,A_{v}^{\times }",/latexf/short/398.png
+399,399,g,/latexf/short/399.png
+400,400,"L(\chi ,s)",/latexf/short/400.png
+401,401,\Delta \mathbf {v} ,/latexf/short/401.png
+402,402,U\subset R^{\times },/latexf/short/402.png
+403,403,"P_{0},",/latexf/short/403.png
+404,404,{\mathfrak {p}},/latexf/short/404.png
+405,405,"S\left(f_{X},f_{Y}\right)",/latexf/short/405.png
+406,406,nx=y,/latexf/short/406.png
+407,407,\mathbf {p} ,/latexf/short/407.png
+408,408,|a+b|=s(a+b),/latexf/short/408.png
+409,409,E_{x},/latexf/short/409.png
+410,410,C=F(a),/latexf/short/410.png
+411,411,2^{t}3^{u}+1,/latexf/short/411.png
+412,412,U\cap \mathbb {Q} =\{0\}.,/latexf/short/412.png
+413,413,\alpha _{v}^{\times },/latexf/short/413.png
+414,414,\zeta ,/latexf/short/414.png
+415,415,LXF,/latexf/short/415.png
+416,416,"\gcd(x,y)",/latexf/short/416.png
+417,417,"f,g\in L^{2}(T,d\mu )",/latexf/short/417.png
+418,418,L_{x}L_{y}\neq L_{y}L_{x},/latexf/short/418.png
+419,419,5+4+2=11,/latexf/short/419.png
+420,420,"x,y\in G.",/latexf/short/420.png
+421,421,"I+A\,d\theta ~,",/latexf/short/421.png
+422,422,d^{2^{c'n}},/latexf/short/422.png
+423,423,n+m=m+n,/latexf/short/423.png
+424,424,H,/latexf/short/424.png
+425,425,"f\in L^{2}(T,d\mu )",/latexf/short/425.png
+426,426,k_{v}\in \mathbb {Z} ,/latexf/short/426.png
+427,427,K(P),/latexf/short/427.png
+428,428,|x|_{v},/latexf/short/428.png
+429,429,p,/latexf/short/429.png
+430,430,F-G,/latexf/short/430.png
+431,431,"f(-4,f(0,+4))=-1",/latexf/short/431.png
+432,432,\int _{-\infty }^{b}f(t)\;dt,/latexf/short/432.png
+433,433,"M',M''",/latexf/short/433.png
+434,434,{}^{n}C_{k},/latexf/short/434.png
+435,435,\cdot ,/latexf/short/435.png
+436,436,H\oplus K,/latexf/short/436.png
+437,437,v\mapsto {\mathfrak {p}}_{v},/latexf/short/437.png
+438,438,\sum a_{n},/latexf/short/438.png
+439,439,"k_{1}+1,k_{1}+2,\ldots ,k_{2}",/latexf/short/439.png
+440,440,\omega =2\pi f,/latexf/short/440.png
+441,441,"y_{i,j}",/latexf/short/441.png
+442,442,"(a_{0},a_{1},...a_{N})",/latexf/short/442.png
+443,443,\Delta t=t_{i}-t_{i-1},/latexf/short/443.png
+444,444,r\in \mathbb {Q} ,/latexf/short/444.png
+445,445,E(P),/latexf/short/445.png
+446,446,x(\tau ),/latexf/short/446.png
+447,447,\lambda ,/latexf/short/447.png
+448,448,\pi _{v}.,/latexf/short/448.png
+449,449,|\cdot |_{v},/latexf/short/449.png
+450,450,a\in \mathbb {Q} .,/latexf/short/450.png
+451,451,"z_{1}\in I_{K},",/latexf/short/451.png
+452,452,\theta ,/latexf/short/452.png
+453,453,y\in \mathbb {Q} (\theta ),/latexf/short/453.png
+454,454,"\mathbb {A} _{A}^{\times },",/latexf/short/454.png
+455,455,x^{2}+y^{2}-a=0,/latexf/short/455.png
+456,456,B=1,/latexf/short/456.png
+457,457,e\mapsto e\otimes 1.,/latexf/short/457.png
+458,458,k!,/latexf/short/458.png
+459,459,"X(s)=X_{L}(s)-X_{C}(s),",/latexf/short/459.png
+460,460,"x^{2}+y^{2}+z^{2}-1=0.\,",/latexf/short/460.png
+461,461,f(x)\in \mathbb {Z} [x],/latexf/short/461.png
+462,462,{\frac {dA}{dt}}=W\cdot A.,/latexf/short/462.png
+463,463,\cos \delta _{A},/latexf/short/463.png
+464,464,{\bar {I}},/latexf/short/464.png
+465,465,p\notin F.,/latexf/short/465.png
+466,466,"a,b,c",/latexf/short/466.png
+467,467,x,/latexf/short/467.png
+468,468,{\widehat {(\dots )}},/latexf/short/468.png
+469,469,\mathbf {s} ,/latexf/short/469.png
+470,470,\alpha ,/latexf/short/470.png
+471,471,A_{i},/latexf/short/471.png
+472,472,|x-a|<r,/latexf/short/472.png
+473,473,"C,",/latexf/short/473.png
+474,474,\log n,/latexf/short/474.png
+475,475,(k+1),/latexf/short/475.png
+476,476,x^{5}-x-1=0,/latexf/short/476.png
+477,477,-2c,/latexf/short/477.png
+478,478,C=100,/latexf/short/478.png
+479,479,\mathbf {r} (t),/latexf/short/479.png
+480,480,"\alpha \in L,",/latexf/short/480.png
+481,481,I_{K}.,/latexf/short/481.png
+482,482,\alpha \in \mathbb {C} ,/latexf/short/482.png
+483,483,N=n-1,/latexf/short/483.png
+484,484,\delta _{v}=1,/latexf/short/484.png
+485,485,L_{z},/latexf/short/485.png
+486,486,-(a_{m}-a_{m+1}),/latexf/short/486.png
+487,487,\mathbf {A} \theta ,/latexf/short/487.png
+488,488,"P,Q\in {\mathcal {A}}",/latexf/short/488.png
+489,489,h(x)=\Re {(f(x))},/latexf/short/489.png
+490,490,R'=R\cos \delta _{A},/latexf/short/490.png
+491,491,y=x^{2},/latexf/short/491.png
+492,492,"y(s)=g(s)+ib(s),",/latexf/short/492.png
+493,493,Q_{v},/latexf/short/493.png
+494,494,\eta \beta \in W_{\alpha },/latexf/short/494.png
+495,495,N_{L/K}(\alpha )\in I_{K}.,/latexf/short/495.png
+496,496,x_{i}^{*},/latexf/short/496.png
+497,497,z\not =1,/latexf/short/497.png
+498,498,"pha _{o},\alpha _{i})",/latexf/short/498.png
+499,499,b_{k},/latexf/short/499.png
+500,500,\alpha _{A}-\alpha _{B}\ll 1,/latexf/short/500.png
+501,501,P(x),/latexf/short/501.png
+502,502,\mathbb {F} _{3}[x],/latexf/short/502.png
+503,503,|x|=x,/latexf/short/503.png
+504,504,"eta _{o},\beta _{i})",/latexf/short/504.png
+505,505,C_{k}^{n}=P_{k}^{n}/k!,/latexf/short/505.png
+506,506,\mathbb {Q} (x),/latexf/short/506.png
+507,507,"(x_{2},y_{2})=\mathbf {0} ",/latexf/short/507.png
+508,508,"rac {1}{2}}(1+{\sqrt {d}}\,)",/latexf/short/508.png
+509,509,\mathbf {v} _{\perp },/latexf/short/509.png
+510,510,\alpha '=\alpha a^{-1},/latexf/short/510.png
+511,511,\operatorname {Gal} (H/K),/latexf/short/511.png
+512,512,\mathbf {v} _{\|},/latexf/short/512.png
+513,513,e^{2\pi ikx},/latexf/short/513.png
+514,514,y={\sqrt {1-x^{2}}}.,/latexf/short/514.png
+515,515,"\mathbf {e} _{i},i=1,2,3,",/latexf/short/515.png
+516,516,C(X)=X,/latexf/short/516.png
+517,517,"L=rmv_{\perp },",/latexf/short/517.png
+518,518,n_{T}-I,/latexf/short/518.png
+519,519,r{\dot {\varphi }},/latexf/short/519.png
+520,520,(x^{2}+x+1)(x^{3}+x^{2}+1),/latexf/short/520.png
+521,521,\ N\ ,/latexf/short/521.png
+522,522,a_{k},/latexf/short/522.png
+523,523,\sigma :K\to \mathbb {C} ,/latexf/short/523.png
+524,524,\int _{a}^{\infty }f(t)\;dt,/latexf/short/524.png
+525,525,K_{v},/latexf/short/525.png
+526,526,{\mathfrak {m}}_{v},/latexf/short/526.png
+527,527,"(0,\,0,\,1)",/latexf/short/527.png
+528,528,f:S\mapsto \mathbb {R} ,/latexf/short/528.png
+529,529,a+d+b=180,/latexf/short/529.png
+530,530,A_{f},/latexf/short/530.png
+531,531,"\mathbf {C} (t)=(u(t),v(t))",/latexf/short/531.png
+532,532,\Delta =b^{2}-4ac.,/latexf/short/532.png
+533,533,x=(x_{v})_{v},/latexf/short/533.png
+534,534,C_{1}=1,/latexf/short/534.png
+535,535,w\neq 1,/latexf/short/535.png
+536,536,"x_{i}^{*}\in [x_{i-1},x_{i}]",/latexf/short/536.png
+537,537,c,/latexf/short/537.png
+538,538,"L=r^{2}m\omega ,",/latexf/short/538.png
+539,539,2{\frac {dA}{dx}}-2=A^{2}-1,/latexf/short/539.png
+540,540,\varepsilon _{\rm {r}},/latexf/short/540.png
+541,541,\mathbb {A} _{L},/latexf/short/541.png
+542,542,A\times A\rightarrow A,/latexf/short/542.png
+543,543,\Delta f,/latexf/short/543.png
+544,544,\mathbb {Z} _{mn},/latexf/short/544.png
+545,545,\sin A=\cos A\cdot \tan A,/latexf/short/545.png
+546,546,"x\in T,",/latexf/short/546.png
+547,547,P_{t},/latexf/short/547.png
+548,548,p(x)=bx-x^{2},/latexf/short/548.png
+549,549,I_{K},/latexf/short/549.png
+550,550,\theta ={\frac {s}{r}},/latexf/short/550.png
+551,551,(6),/latexf/short/551.png
+552,552,\mathbf {Z} ,/latexf/short/552.png
+553,553,r_{3},/latexf/short/553.png
+554,554,\mathbb {Z} .,/latexf/short/554.png
+555,555,-,/latexf/short/555.png
+556,556,d^{2^{cn}},/latexf/short/556.png
+557,557,s=(a+b+c)/2,/latexf/short/557.png
+558,558,(1-z)f_{n}(z),/latexf/short/558.png
+559,559,\beta =0.,/latexf/short/559.png
+560,560,\mathbb {A} _{L}.,/latexf/short/560.png
+561,561,{\frac {dv_{\perp }}{dt}},/latexf/short/561.png
+562,562,y=2x.,/latexf/short/562.png
+563,563,\sin(x)+1,/latexf/short/563.png
+564,564,"S=UMV,",/latexf/short/564.png
+565,565,dx,/latexf/short/565.png
+566,566,A=A(t),/latexf/short/566.png
+567,567,\lambda ={2(L+0.6d)},/latexf/short/567.png
+568,568,"n\geq 0,",/latexf/short/568.png
+569,569,3+3+3+3=12,/latexf/short/569.png
+570,570,"\int \cos(x)\,dx=\sin(x)+C.",/latexf/short/570.png
+571,571,"\int f(x)\,\mathrm {d} x.",/latexf/short/571.png
+572,572,"\lim _{x\to p}f(x)=L,",/latexf/short/572.png
+573,573,{\sqrt {n}},/latexf/short/573.png
+574,574,S_{m},/latexf/short/574.png
+575,575,a_{i},/latexf/short/575.png
+576,576,\scriptstyle x={\frac {b}{2}},/latexf/short/576.png
+577,577,B=2,/latexf/short/577.png
+578,578,\mathbf {\hat {u}} ,/latexf/short/578.png
+579,579,"e^{i2\pi \xi x},\xi >0",/latexf/short/579.png
+580,580,"[{\cdot },{\cdot }]",/latexf/short/580.png
+581,581,s=\pm 1,/latexf/short/581.png
+582,582,f_{i},/latexf/short/582.png
+583,583,G(x)=F(x)+c,/latexf/short/583.png
+584,584,O\left(T(n)\log n\right).,/latexf/short/584.png
+585,585,K=\mathbb {Q} (\theta ),/latexf/short/585.png
+586,586,"(5-3)-2\,\neq \,5-(3-2)",/latexf/short/586.png
+587,587,K_{n},/latexf/short/587.png
+588,588,T_{t},/latexf/short/588.png
+589,589,{\widehat {\rm {BAC}}},/latexf/short/589.png
+590,590,y=f(x),/latexf/short/590.png
+591,591,"|x|\operatorname {sgn}(x)=x,",/latexf/short/591.png
+592,592,\omega _{1},/latexf/short/592.png
+593,593,"\infty ,",/latexf/short/593.png
+594,594,K=\mathbb {Q} (x),/latexf/short/594.png
+595,595,\theta _{v},/latexf/short/595.png
+596,596,{\sqrt {1-x^{2}}},/latexf/short/596.png
+597,597,F(\omega ),/latexf/short/597.png
+598,598,q=1,/latexf/short/598.png
+599,599,\ x\to L\ ,/latexf/short/599.png
+600,600,\lambda \in \mathbb {R} _{>0},/latexf/short/600.png
+601,601,s\in \mathbb {C} ,/latexf/short/601.png
+602,602,"(-\infty ,a)",/latexf/short/602.png
+603,603,k\in K^{\times }.,/latexf/short/603.png
+604,604,0<c\leq C<\infty .,/latexf/short/604.png
+605,605,"r_{\lambda ,j}\in R",/latexf/short/605.png
+606,606,"(1,0)\cdot (0,1)=(0,0)",/latexf/short/606.png
+607,607,\lim _{x\to 0^{+}}x^{x}=1,/latexf/short/607.png
+608,608,\mathbf {Q} _{p},/latexf/short/608.png
+609,609,Q,/latexf/short/609.png
+610,610,\mathbb {A} _{\mathbb {Q} },/latexf/short/610.png
+611,611,P',/latexf/short/611.png
+612,612,{\mathcal {S}}_{n},/latexf/short/612.png
+613,613,"(x_{i},y_{i})",/latexf/short/613.png
+614,614,"E=\mu (K),",/latexf/short/614.png
+615,615,x=a\times 10^{b},/latexf/short/615.png
+616,616,r_{y},/latexf/short/616.png
+617,617,\mathbb {A} _{E}^{\star },/latexf/short/617.png
+618,618,{\hat {\varphi }},/latexf/short/618.png
+619,619,A=K,/latexf/short/619.png
+620,620,f\colon A\times A\to B,/latexf/short/620.png
+621,621,1\div 2\neq 2\div 1,/latexf/short/621.png
+622,622,0,/latexf/short/622.png
+623,623,{\mathfrak {c}},/latexf/short/623.png
+624,624,-r\cdot \omega ^{2},/latexf/short/624.png
+625,625,x+y>0,/latexf/short/625.png
+626,626,C_{n}^{k},/latexf/short/626.png
+627,627,\xi ,/latexf/short/627.png
+628,628,"\mathbb {A} _{A},",/latexf/short/628.png
+629,629,0<|x-a|<\delta .,/latexf/short/629.png
+630,630,v_{\perp }=v\sin(\theta ),/latexf/short/630.png
+631,631,L_{eq},/latexf/short/631.png
+632,632,"e_{1},\ldots ,e_{n}",/latexf/short/632.png
+633,633,K\times A\to A,/latexf/short/633.png
+634,634,{\widetilde {O_{v}}}:,/latexf/short/634.png
+635,635,nx=a,/latexf/short/635.png
+636,636,I-1,/latexf/short/636.png
+637,637,\sin ^{2}A+\cos ^{2}A=1\ ,/latexf/short/637.png
+638,638,"1,-1,3,-5,11,\ldots ",/latexf/short/638.png
+639,639,L_{v}.,/latexf/short/639.png
+640,640,N(x),/latexf/short/640.png
+641,641,x=-x,/latexf/short/641.png
+642,642,\theta \ll 1,/latexf/short/642.png
+643,643,rac {d}{dx}},/latexf/short/643.png
+644,644,a_{0},/latexf/short/644.png
+645,645,\alpha _{v},/latexf/short/645.png
+646,646,{\sqrt {2}},/latexf/short/646.png
+647,647,\sin(x),/latexf/short/647.png
+648,648,Sr/3,/latexf/short/648.png
+649,649,E\to \mathbb {A} _{E},/latexf/short/649.png
+650,650,"E=L,",/latexf/short/650.png
+651,651,4\pi r^{3}/3,/latexf/short/651.png
+652,652,O'\in {\mathcal {B}},/latexf/short/652.png
+653,653,{\frac {e^{-ikr}}{r}},/latexf/short/653.png
+654,654,\mathbb {Z} _{2},/latexf/short/654.png
+655,655,\Psi ,/latexf/short/655.png
+656,656,0.999\ldots ,/latexf/short/656.png
+657,657,"K,",/latexf/short/657.png
+658,658,I_{K}\cong M\times I_{K}^{1}.,/latexf/short/658.png
+659,659,Z_{\mathbb {R} },/latexf/short/659.png
+660,660,"Z(t)=R(t)+iX(t),",/latexf/short/660.png
+661,661,{\mathcal {S}}_{5},/latexf/short/661.png
+662,662,"\prod _{v}U_{v},",/latexf/short/662.png
+663,663,\mathbb {R} ^{n\star },/latexf/short/663.png
+664,664,Q=p^{m},/latexf/short/664.png
+665,665,T(A),/latexf/short/665.png
+666,666,\pi r^{2}+\pi rl,/latexf/short/666.png
+667,667,"g\,\circ \,f",/latexf/short/667.png
+668,668,N>|s|,/latexf/short/668.png
+669,669,\mathbb {C} _{p},/latexf/short/669.png
+670,670,F=\mathbb {Q} [\alpha ],/latexf/short/670.png
+671,671,|\cdot |_{\infty },/latexf/short/671.png
+672,672,"y_{i}=My_{o}\,",/latexf/short/672.png
+673,673,m<n,/latexf/short/673.png
+674,674,\approx {\frac {1}{2}}c,/latexf/short/674.png
+675,675,N>0,/latexf/short/675.png
+676,676,{\mathcal {O}}_{\nu },/latexf/short/676.png
+677,677,b,/latexf/short/677.png
+678,678,d^{\times }x,/latexf/short/678.png
+679,679,\sum _{k=0}^{n}(-2)^{k},/latexf/short/679.png
+680,680,p_{x},/latexf/short/680.png
+681,681,z,/latexf/short/681.png
+682,682,"\mathbf {F} =m\mathbf {a} ,",/latexf/short/682.png
+683,683,k_{2},/latexf/short/683.png
+684,684,x+x+\cdots +x,/latexf/short/684.png
+685,685,{\mathcal {P}},/latexf/short/685.png
+686,686,A\subseteq \mathbb {R} ,/latexf/short/686.png
+687,687,"\mathbb {C} ^{n},",/latexf/short/687.png
+688,688,n=1,/latexf/short/688.png
+689,689,a_{t}=r\alpha .,/latexf/short/689.png
+690,690,"\mathbf {V} =\mathbf {0} ,",/latexf/short/690.png
+691,691,\omega ,/latexf/short/691.png
+692,692,0-1\neq 1-0,/latexf/short/692.png
+693,693,"\varphi :[a,b]\to [c,d]",/latexf/short/693.png
+694,694,\lim _{x\to a}f(x)=L,/latexf/short/694.png
+695,695,\gamma ,/latexf/short/695.png
+696,696,v_{p}\in \mathbb {Z} ,/latexf/short/696.png
+697,697,\mathbb {Z} _{n},/latexf/short/697.png
+698,698,2{\sqrt {1-y^{2}}},/latexf/short/698.png
+699,699,K_{v}.,/latexf/short/699.png
+700,700,{\widehat {G}}.,/latexf/short/700.png
+701,701,Z_{0}={\frac {\rho c}{A}}.,/latexf/short/701.png
+702,702,n\in \mathbb {N} .,/latexf/short/702.png
+703,703,"(b_{0},b_{1},b_{2},\ldots )",/latexf/short/703.png
+704,704,\scriptstyle \approx ,/latexf/short/704.png
+705,705,\operatorname {GL} (2),/latexf/short/705.png
+706,706,1+\cot ^{2}A=\csc ^{2}A\ ,/latexf/short/706.png
+707,707,\Lambda ^{2}V,/latexf/short/707.png
+708,708,y,/latexf/short/708.png
+709,709,\mathbf {v} =W\mathbf {r} .,/latexf/short/709.png
+710,710,U^{-1}\subset R^{\times },/latexf/short/710.png
+711,711,x_{0}=1,/latexf/short/711.png
+712,712,q\in \mathbb {Q} .,/latexf/short/712.png
+713,713,G={\mathcal {S}}_{5},/latexf/short/713.png
+714,714,z_{1}.,/latexf/short/714.png
+715,715,I_{L}.,/latexf/short/715.png
+716,716,"\int f(x)\,dx.",/latexf/short/716.png
+717,717,x^{y^{z}}=x^{(y^{z})},/latexf/short/717.png
+718,718,N(A\cup B),/latexf/short/718.png
+719,719,v\notin S.,/latexf/short/719.png
+720,720,(a_{n}),/latexf/short/720.png
+721,721,"L=r^{2}m\cdot {\frac {v}{r}},",/latexf/short/721.png
+722,722,e_{i},/latexf/short/722.png
+723,723,2^{x+3},/latexf/short/723.png
+724,724,\lim _{x\to a}f(x)=0,/latexf/short/724.png
+725,725,"Z_{k,2}=i",/latexf/short/725.png
+726,726,\psi (\mathbf {r} ),/latexf/short/726.png
+727,727,\tau _{w}:L\to L_{w},/latexf/short/727.png
+728,728,-x,/latexf/short/728.png
+729,729,\operatorname {char} (K)=p>0.,/latexf/short/729.png
+730,730,"n(x,y)",/latexf/short/730.png
+731,731,"(k,j+1)",/latexf/short/731.png
+732,732,r_{p}=z_{p}/p^{x_{p}},/latexf/short/732.png
+733,733,l\in V,/latexf/short/733.png
+734,734,G=A\oplus C,/latexf/short/734.png
+735,735,{\frac {d}{dx}}(x^{2})=2x.,/latexf/short/735.png
+736,736,x^{n}-1=0,/latexf/short/736.png
+737,737,n-k,/latexf/short/737.png
+738,738,2^{\aleph _{0}}=\aleph _{1}.,/latexf/short/738.png
+739,739,\mathbf {r} =\mathbf {e} _{i},/latexf/short/739.png
+740,740,"(k-1,j-1)",/latexf/short/740.png
+741,741,X_{i},/latexf/short/741.png
+742,742,a_{w}=a_{w'},/latexf/short/742.png
+743,743,A.,/latexf/short/743.png
+744,744,o},/latexf/short/744.png
+745,745,L=rmr\omega .,/latexf/short/745.png
+746,746,\lambda ={4(L+0.4d)},/latexf/short/746.png
+747,747,"d\mu =f\,d\lambda ",/latexf/short/747.png
+748,748,g^{3},/latexf/short/748.png
+749,749,\sum _{i=s}^{\infty }f(i),/latexf/short/749.png
+750,750,n>0,/latexf/short/750.png
+751,751,\phi (t),/latexf/short/751.png
+752,752,"\int 2x\,dx=x^{2}+C.",/latexf/short/752.png
+753,753,r>0,/latexf/short/753.png
+754,754,\mathbf {r} ,/latexf/short/754.png
+755,755,"T_{k,n}",/latexf/short/755.png
+756,756,f_{\lambda }\in S,/latexf/short/756.png
+757,757,O(n^{2}),/latexf/short/757.png
+758,758,\mathbb {Q} ,/latexf/short/758.png
+759,759,\alpha =0,/latexf/short/759.png
+760,760,e^{-w/t},/latexf/short/760.png
+761,761,y=2.,/latexf/short/761.png
+762,762,"x_{1},\dots x_{n}\in A",/latexf/short/762.png
+763,763,P,/latexf/short/763.png
+764,764,\mathbb {Z} _{p}^{n},/latexf/short/764.png
+765,765,{\hat {r}},/latexf/short/765.png
+766,766,A^{\times },/latexf/short/766.png
+767,767,x_{n},/latexf/short/767.png
+768,768,z=0,/latexf/short/768.png
+769,769,r^{2}m,/latexf/short/769.png
+770,770,K\to L.,/latexf/short/770.png
+771,771,e^{i\omega t},/latexf/short/771.png
+772,772,"v,",/latexf/short/772.png
+773,773,"\mathbb {A} _{K},",/latexf/short/773.png
+774,774,\kappa ^{+}\nleq \kappa .,/latexf/short/774.png
+775,775,\mathbb {C} ,/latexf/short/775.png
+776,776,m=n,/latexf/short/776.png
+777,777,{x^{y}}^{z}=(x^{y})^{z},/latexf/short/777.png
+778,778,"u_{\lambda ,i}",/latexf/short/778.png
+779,779,"ax^{2}+bx+c=0,",/latexf/short/779.png
+780,780,"P\supset P_{\infty },",/latexf/short/780.png
+781,781,\lambda \in \mathbb {R} _{+},/latexf/short/781.png
+782,782,nx,/latexf/short/782.png
+783,783,"f(x,y)=-f(y,x).",/latexf/short/783.png
+784,784,K,/latexf/short/784.png
+785,785,{\mathcal {O}}_{L},/latexf/short/785.png
+786,786,"\gcd(8,12)=4",/latexf/short/786.png
+787,787,E,/latexf/short/787.png
+788,788,b/c\in \mathbf {Q} ,/latexf/short/788.png
+789,789,d+2c=180,/latexf/short/789.png
+790,790,"Y(t)=G(t)+iB(t),",/latexf/short/790.png
+791,791,y_{i},/latexf/short/791.png
+792,792,"n=\log a+\log b,",/latexf/short/792.png
+793,793,|\alpha _{p}-r_{p}|\leq 1.,/latexf/short/793.png
+794,794,{\mathcal {F}}^{4}(f)=f,/latexf/short/794.png
+795,795,x\cdot y,/latexf/short/795.png
+796,796,"p(t)=[R*Q](t),",/latexf/short/796.png
+797,797,"v\notin P_{0},",/latexf/short/797.png
+798,798,\cos c,/latexf/short/798.png
+799,799,2k_{z},/latexf/short/799.png
+800,800,v\nmid \infty ,/latexf/short/800.png
+801,801,k_{T},/latexf/short/801.png
+802,802,|\cdot |_{0}\sim |\cdot |_{1},/latexf/short/802.png
+803,803,0-1=-(1-0),/latexf/short/803.png
+804,804,a=a_{1}+ia_{2},/latexf/short/804.png
+805,805,a_{p}/c\in \mathbf {Q} _{p},/latexf/short/805.png
+806,806,p_{1},/latexf/short/806.png
+807,807,\varphi (n),/latexf/short/807.png
+808,808,s,/latexf/short/808.png
+809,809,"A,",/latexf/short/809.png
+810,810,g_{ij},/latexf/short/810.png
+811,811,e'\in \mathbb {A} _{E}',/latexf/short/811.png
+812,812,\pi .,/latexf/short/812.png
+813,813,\zeta _{n},/latexf/short/813.png
+814,814,b_{0},/latexf/short/814.png
+815,815,0\to M'\to M\to M''\to 0,/latexf/short/815.png
+816,816,m\in \mathbb {N} .,/latexf/short/816.png
+817,817,"\theta \in [0,1]",/latexf/short/817.png
+818,818,{\acute {P}}_{0},/latexf/short/818.png
+819,819,x_{2},/latexf/short/819.png
+820,820,|T|=1,/latexf/short/820.png
+821,821,V_{F}:=V\otimes _{K}F,/latexf/short/821.png
+822,822,f^{*}(x)-L,/latexf/short/822.png
+823,823,\mathbf {r} _{2},/latexf/short/823.png
+824,824,P_{k}^{n}=C_{k}^{n}\times k!,/latexf/short/824.png
+825,825,f(A),/latexf/short/825.png
+826,826,{\frac {5}{12}},/latexf/short/826.png
+827,827,L_{w}.,/latexf/short/827.png
+828,828,{\acute {V}}_{0},/latexf/short/828.png
+829,829,1213,/latexf/short/829.png
+830,830,8\pi /3,/latexf/short/830.png
+831,831,\mathbb {F} _{2}[x],/latexf/short/831.png
+832,832,e.,/latexf/short/832.png
+833,833,\alpha _{0},/latexf/short/833.png
+834,834,mbda ={\frac {2\pi }{k}},/latexf/short/834.png
+835,835,K/L,/latexf/short/835.png
+836,836,S_{5},/latexf/short/836.png
+837,837,x^{n},/latexf/short/837.png
+838,838,2+2=4,/latexf/short/838.png
+839,839,F,/latexf/short/839.png
+840,840,A(\mathbf {r} ),/latexf/short/840.png
+841,841,"y=x^{\frac {3}{2}}\,",/latexf/short/841.png
+842,842,\mathbf {F_{g}} ,/latexf/short/842.png
+843,843,P(x).,/latexf/short/843.png
+844,844,\pi d,/latexf/short/844.png
+845,845,(\{{\mathfrak {a}}\})^{-1},/latexf/short/845.png
+846,846,{\hat {T}},/latexf/short/846.png
+847,847,\mathbf {V} ,/latexf/short/847.png
+848,848,a\in O_{v}^{\times },/latexf/short/848.png
+849,849,f=1/\tau ,/latexf/short/849.png
+850,850,V_{b},/latexf/short/850.png
+851,851,{\mathcal {F}},/latexf/short/851.png
+852,852,{\frac {df}{dz}}=g,/latexf/short/852.png
+853,853,"p\colon L\to A,",/latexf/short/853.png
+854,854,n\geq 2,/latexf/short/854.png
+855,855,\mathbb {A} _{\mathbb {Q} }.,/latexf/short/855.png
+856,856,"v\notin S,",/latexf/short/856.png
+857,857,+\infty ,/latexf/short/857.png
+858,858,"(a_{0},a_{1},a_{2},\ldots )",/latexf/short/858.png
+859,859,R^{\times }\subset R,/latexf/short/859.png
+860,860,x\in K,/latexf/short/860.png
+861,861,2\pi ,/latexf/short/861.png
+862,862,n+0=n=0+n.,/latexf/short/862.png
+863,863,\|\cdot \|_{\infty },/latexf/short/863.png
+864,864,"Z_{k,1}=i",/latexf/short/864.png
+865,865,g:U\to \mathbb {C} ,/latexf/short/865.png
+866,866,{\vec {x}},/latexf/short/866.png
+867,867,z^{2}<1-y^{2},/latexf/short/867.png
+868,868,y^{z},/latexf/short/868.png
+869,869,"\operatorname {lcm} (l,m,n)",/latexf/short/869.png
+870,870,\theta =2\pi ,/latexf/short/870.png
+871,871,k_{y},/latexf/short/871.png
+872,872,\operatorname {Gal} (F/K),/latexf/short/872.png
+873,873,"(k,j)",/latexf/short/873.png
+874,874,{\widehat {G}},/latexf/short/874.png
+875,875,\mathbb {E} ^{n},/latexf/short/875.png
+876,876,\operatorname {Re} \alpha >-1,/latexf/short/876.png
+877,877,"T_{2,2}",/latexf/short/877.png
+878,878,"E(n,k)=E(n,k-1)+E(n-1,n-k)",/latexf/short/878.png
+879,879,"(y,z)",/latexf/short/879.png
+880,880,{\hat {f}}(5),/latexf/short/880.png
+881,881,\pm \infty ,/latexf/short/881.png
+882,882,h,/latexf/short/882.png
+883,883,\mathbb {Z} _{m},/latexf/short/883.png
+884,884,{\frac {1}{(2\pi )^{2}}},/latexf/short/884.png
+885,885,"\xi \in K,",/latexf/short/885.png
+886,886,"s=r\theta \,",/latexf/short/886.png
+887,887,\alpha _{v}:=\pi _{v}^{k_{v}},/latexf/short/887.png
+888,888,\mathbb {F} _{p^{r}}(t),/latexf/short/888.png
+889,889,n\geq 1,/latexf/short/889.png
+890,890,c=2b,/latexf/short/890.png
+891,891,{\overline {\mathbb {Q} }},/latexf/short/891.png
+892,892,\backsim ,/latexf/short/892.png
+893,893,"C_{n,k}",/latexf/short/893.png
+894,894,\vdash ,/latexf/short/894.png
+895,895,u_{n+1}=au_{n}+b,/latexf/short/895.png
+896,896,f(x)={\frac {1}{1-2x}}.,/latexf/short/896.png
+897,897,I=r^{2}m,/latexf/short/897.png
+898,898,x=1.,/latexf/short/898.png
+899,899,k_{y}^{i}={\frac {k_{y}}{M}},/latexf/short/899.png
+900,900,\mathbb {Q} _{p}/Z_{p},/latexf/short/900.png
+901,901,B+{\frac {PL}{2}},/latexf/short/901.png
+902,902,\sin A={\frac {1}{\csc A}},/latexf/short/902.png
+903,903,v\neq v_{0}.,/latexf/short/903.png
+904,904,\mathbb {Z} _{p}.,/latexf/short/904.png
+905,905,"k_{1}!\,k_{2}!\cdots k_{m}!",/latexf/short/905.png
+906,906,\mathbf {s} (t),/latexf/short/906.png
+907,907,\sum a_{n}b_{n},/latexf/short/907.png
+908,908,"x_{1},\ldots ,x_{n}",/latexf/short/908.png
+909,909,\lim _{x\to p^{+}}f(x)=L,/latexf/short/909.png
+910,910,x\to p,/latexf/short/910.png
+911,911,\scriptstyle \sim ,/latexf/short/911.png
+912,912,C(C(x))=C(x),/latexf/short/912.png
+913,913,{\tilde {f}},/latexf/short/913.png
+914,914,G(x)=0,/latexf/short/914.png
+915,915,x_{1}+x_{2}+x_{3}+x_{4}=3,/latexf/short/915.png
+916,916,v_{\mathfrak {p}}(x)=n,/latexf/short/916.png
+917,917,f^{g},/latexf/short/917.png
+918,918,u.,/latexf/short/918.png
+919,919,\supset ,/latexf/short/919.png
+920,920,a_{ij},/latexf/short/920.png
+921,921,K_{\mathfrak {p}},/latexf/short/921.png
+922,922,4\pi r^{2},/latexf/short/922.png
+923,923,"\mathbb {A} _{K}'(v),",/latexf/short/923.png
+924,924,f,/latexf/short/924.png
+925,925,"S,\mathbb {A} _{K,S}",/latexf/short/925.png
+926,926,\mu (K)\subset E.,/latexf/short/926.png
+927,927,\theta _{z},/latexf/short/927.png
+928,928,"|x|=x\operatorname {sgn}(x),",/latexf/short/928.png
+929,929,m,/latexf/short/929.png
+930,930,m>n,/latexf/short/930.png
+931,931,"(0,0,\dotsc ,0,1)",/latexf/short/931.png
+932,932,E_{z},/latexf/short/932.png
+933,933,\{v\}.,/latexf/short/933.png
+934,934,C_{k}^{n},/latexf/short/934.png
+935,935,{\tilde {\Phi }},/latexf/short/935.png
+936,936,{\hat {\mathbf {n} }},/latexf/short/936.png
+937,937,"O,",/latexf/short/937.png
+938,938,x-y-z=(x-y)-z,/latexf/short/938.png
+939,939,A/T(A),/latexf/short/939.png
+940,940,"L=rmv,",/latexf/short/940.png
+941,941,mod,/latexf/short/941.png
+942,942,"L^{2}(T,d\mu )",/latexf/short/942.png
+943,943,k_{i},/latexf/short/943.png
+944,944,f(ka)=kf(a),/latexf/short/944.png
+945,945,"u(\mathbf {r} ,t)",/latexf/short/945.png
+946,946,F(b)-F(a),/latexf/short/946.png
+947,947,"[a,b].",/latexf/short/947.png
+948,948,-a_{m}\leq S_{n}-S_{m},/latexf/short/948.png
+949,949,r_{0}e^{-j2\pi \alpha y},/latexf/short/949.png
+950,950,{\acute {P}}_{t},/latexf/short/950.png
+951,951,p(f)=0,/latexf/short/951.png
+952,952,S_{n}-S_{m}\leq a_{m},/latexf/short/952.png
+953,953,K/\mathbb {Q} ,/latexf/short/953.png
+954,954,A_{v}^{\times },/latexf/short/954.png
+955,955,"(k,j-1)",/latexf/short/955.png
+956,956,"p\in \{p_{1},\ldots ,p_{n}\}",/latexf/short/956.png
+957,957,"M/L/K,",/latexf/short/957.png
+958,958,|\cdot |_{\mathfrak {p}},/latexf/short/958.png
+959,959,\aleph _{0}=\omega ,/latexf/short/959.png
+960,960,"v_{\mathfrak {p}},",/latexf/short/960.png
+961,961,\alpha -(r+s)\in W.,/latexf/short/961.png
+962,962,"[t_{i-1},t_{i}]",/latexf/short/962.png
+963,963,f(x)=1/x^{2},/latexf/short/963.png
+964,964,"k_{1},k_{2},\dots ,k_{u}",/latexf/short/964.png
+965,965,"C=2\pi r,",/latexf/short/965.png
+966,966,"\alpha _{ij},",/latexf/short/966.png
+967,967,/,/latexf/short/967.png
+968,968,T_{n},/latexf/short/968.png
+969,969,e^{a+b}=e^{a}e^{b}.,/latexf/short/969.png
+970,970,"I=k^{2}m,",/latexf/short/970.png
+971,971,3+i{\sqrt {2}},/latexf/short/971.png
+972,972,rac {dy}{dx}}=f(x),/latexf/short/972.png
+973,973,\lambda =1,/latexf/short/973.png
+974,974,\omega _{1}+\omega _{2},/latexf/short/974.png
+975,975,"2-6i,",/latexf/short/975.png
+976,976,n_{i},/latexf/short/976.png
+977,977,K_{\nu },/latexf/short/977.png
+978,978,{\sqrt {d}},/latexf/short/978.png
+979,979,\mathbf {OA} ,/latexf/short/979.png
+980,980,\sin c\sin a\sin B,/latexf/short/980.png
+981,981,"C(n,k)",/latexf/short/981.png
+982,982,L,/latexf/short/982.png
+983,983,"x^{2}+y^{2}+z^{2}-1=0,\,",/latexf/short/983.png
+984,984,\mathbb {Z} ,/latexf/short/984.png
+985,985,d,/latexf/short/985.png
+986,986,|\xi |_{v}=1,/latexf/short/986.png
+987,987,f(x)=x^{n},/latexf/short/987.png
+988,988,-1\cdot x\leq |x|,/latexf/short/988.png
+989,989,\mathbb {A} _{K}(P').,/latexf/short/989.png
+990,990,E\subset E(P),/latexf/short/990.png
+991,991,P(-3)<0,/latexf/short/991.png
+992,992,n!,/latexf/short/992.png
+993,993,F_{i-1},/latexf/short/993.png
+994,994,{\mathfrak {p}}_{v}.,/latexf/short/994.png
+995,995,"[a,b]",/latexf/short/995.png
+996,996,"\Re (s)>1,",/latexf/short/996.png
+997,997,\{\emptyset \},/latexf/short/997.png
+998,998,"\alpha ,",/latexf/short/998.png
+999,999,A_{v}\times A_{v}.,/latexf/short/999.png
+1000,1000,f_{v}:K_{v}\to \mathbb {C} ,/latexf/short/1000.png
+1001,1001,I_{K}^{1}/K^{\times }.,/latexf/short/1001.png
+1002,1002,10-5i,/latexf/short/1002.png
+1003,1003,"(\mathbb {Z} ,+)",/latexf/short/1003.png
+1004,1004,10^{b},/latexf/short/1004.png
+1005,1005,\mathbf {A} _{\mathbf {Q} },/latexf/short/1005.png
+1006,1006,\omega ={\frac {v}{r}}.,/latexf/short/1006.png
+1007,1007,f(x)=x^{2},/latexf/short/1007.png
+1008,1008,{\bar {x}},/latexf/short/1008.png
+1009,1009,G(\omega ),/latexf/short/1009.png
+1010,1010,\mathbb {A} ,/latexf/short/1010.png
+1011,1011,\alpha \in \mathbb {A} _{K},/latexf/short/1011.png
+1012,1012,\Leftrightarrow ,/latexf/short/1012.png
+1013,1013,(\cos a-\cos b)^{2}\approx 0,/latexf/short/1013.png
+1014,1014,C_{K},/latexf/short/1014.png
+1015,1015,"\psi (x,y,z)",/latexf/short/1015.png
+1016,1016,\chi ,/latexf/short/1016.png
+1017,1017,E\cong K^{n}.,/latexf/short/1017.png
+1018,1018,r={\frac {1}{2}},/latexf/short/1018.png
+1019,1019,U=0.,/latexf/short/1019.png
+1020,1020,"x-(u_{\lambda ,i}+M),",/latexf/short/1020.png
+1021,1021,T_{k},/latexf/short/1021.png
+1022,1022,e+c=180,/latexf/short/1022.png
+1023,1023,\Delta A=A_{f}A_{0}^{-1},/latexf/short/1023.png
+1024,1024,\lim _{x\to p^{-}}f(x)=L,/latexf/short/1024.png
+1025,1025,F(x),/latexf/short/1025.png
+1026,1026,|z|^{2}=|z^{2}|,/latexf/short/1026.png
+1027,1027,m+n,/latexf/short/1027.png
+1028,1028,x\mapsto x^{-1},/latexf/short/1028.png
+1029,1029,1+1=2,/latexf/short/1029.png
+1030,1030,\mathbb {R} ^{n},/latexf/short/1030.png
+1031,1031,R\times R,/latexf/short/1031.png
+1032,1032,f:X\to Y,/latexf/short/1032.png
+1033,1033,w,/latexf/short/1033.png
+1034,1034,\mathbf {v} ,/latexf/short/1034.png
+1035,1035,a_{\perp },/latexf/short/1035.png
+1036,1036,"f(x)=(1+x)^{\alpha },",/latexf/short/1036.png
+1037,1037,|\cdot |_{p},/latexf/short/1037.png
+1038,1038,x<0,/latexf/short/1038.png
+1039,1039,\theta =\zeta {\sqrt[{6}]{2}},/latexf/short/1039.png
+1040,1040,{\frac {\pi }{3{\sqrt {3}}}},/latexf/short/1040.png
+1041,1041,{}_{n}C_{k},/latexf/short/1041.png
+1042,1042,W,/latexf/short/1042.png
+1043,1043,{\bar {z}}=x-iy,/latexf/short/1043.png
+1044,1044,"|z_{1}|=Q,",/latexf/short/1044.png
+1045,1045,v(\xi )=0,/latexf/short/1045.png
+1046,1046,"r_{\lambda ,j}",/latexf/short/1046.png
+1047,1047,F(x)+C,/latexf/short/1047.png
+1048,1048,C(X),/latexf/short/1048.png
+1049,1049,\arg(c_{n}),/latexf/short/1049.png
+1050,1050,M,/latexf/short/1050.png
+1051,1051,a_{w}\in K_{v},/latexf/short/1051.png
+1052,1052,k\leq d_{k},/latexf/short/1052.png
+1053,1053,{\widetilde {P}},/latexf/short/1053.png
+1054,1054,"i,j=1,...,n",/latexf/short/1054.png
+1055,1055,v<\infty ,/latexf/short/1055.png
+1056,1056,y=x,/latexf/short/1056.png
+1057,1057,|w|<1,/latexf/short/1057.png
+1058,1058,mr^{2},/latexf/short/1058.png
+1059,1059,z_{0}=\rho c.,/latexf/short/1059.png
+1060,1060,"d_{j,j}",/latexf/short/1060.png
+1061,1061,2\times 2,/latexf/short/1061.png
+1062,1062,r_{2},/latexf/short/1062.png
+1063,1063,N>(b-a)/\delta (\varepsilon ),/latexf/short/1063.png
+1064,1064,rac {k_{T}}{2\pi }},/latexf/short/1064.png
+1065,1065,M/L/K,/latexf/short/1065.png
+1066,1066,\varphi ,/latexf/short/1066.png
+1067,1067,d=180,/latexf/short/1067.png
+1068,1068,"a,a+m,a+2m,\ldots ",/latexf/short/1068.png
+1069,1069,"e\in E,",/latexf/short/1069.png
+1070,1070,c_{k}\leq k,/latexf/short/1070.png
+1071,1071,v(a)=0,/latexf/short/1071.png
+1072,1072,"x_{i},",/latexf/short/1072.png
+1073,1073,v|\infty .,/latexf/short/1073.png
+1074,1074,1+i,/latexf/short/1074.png
+1075,1075,A(x),/latexf/short/1075.png
+1076,1076,x\in \mathbb {R} ^{*},/latexf/short/1076.png
+1077,1077,"\alpha ,\beta \in I_{K}.",/latexf/short/1077.png
+1078,1078,"b\in \{1,2,\ldots ,B\}",/latexf/short/1078.png
+1079,1079,Y\subseteq X,/latexf/short/1079.png
+1080,1080,"(\sin c,\,0,\,\cos c)",/latexf/short/1080.png
+1081,1081,\pi _{v},/latexf/short/1081.png
+1082,1082,E\to K.,/latexf/short/1082.png
+1083,1083,1-1+1-1+\cdots ,/latexf/short/1083.png
+1084,1084,V_{i},/latexf/short/1084.png
+1085,1085,z\in \mathbb {Z} ,/latexf/short/1085.png
+1086,1086,F_{i},/latexf/short/1086.png
+1087,1087,x\mapsto -x.,/latexf/short/1087.png
+1088,1088,x^{2}+y^{2}-1=0,/latexf/short/1088.png
+1089,1089,"G=\{x_{1},\ldots ,x_{n}\}",/latexf/short/1089.png
+1090,1090,\mathbb {Z} \to A,/latexf/short/1090.png
+1091,1091,"a\mapsto (a,a,\ldots ).",/latexf/short/1091.png
+1092,1092,\mathbf {F} ,/latexf/short/1092.png
+1093,1093,"x,y\in G",/latexf/short/1093.png
+1094,1094,v_{k},/latexf/short/1094.png
+1095,1095,\alpha _{v}=\lambda ,/latexf/short/1095.png
+1096,1096,\aleph _{0},/latexf/short/1096.png
+1097,1097,"a(bs)=(ab)s,",/latexf/short/1097.png
+1098,1098,f(x_{0}+\pi {\vec {r}}),/latexf/short/1098.png
+1099,1099,\nu _{p}(n),/latexf/short/1099.png
+1100,1100,"z\in I_{K},",/latexf/short/1100.png
+1101,1101,x^{2},/latexf/short/1101.png
+1102,1102,(1-2^{1-s})\zeta (s)=\eta (s),/latexf/short/1102.png
+1103,1103,0}\ll {\frac {1}{\lambda f}},/latexf/short/1103.png
+1104,1104,\pi rl,/latexf/short/1104.png
+1105,1105,\eta =2,/latexf/short/1105.png
+1106,1106,\cos a,/latexf/short/1106.png
+1107,1107,\sum _{n=1}^{\infty }1^{n},/latexf/short/1107.png
+1108,1108,\|\cdot \|_{2},/latexf/short/1108.png
+1109,1109,O_{v}.,/latexf/short/1109.png
+1110,1110,{\dot {\theta }}_{z},/latexf/short/1110.png
+1111,1111,I_{K}^{1}/K^{\times },/latexf/short/1111.png
+1112,1112,"o(x,y)",/latexf/short/1112.png
+1113,1113,{f(2(L+0.6d))}=v,/latexf/short/1113.png
+1114,1114,V_{0},/latexf/short/1114.png
+1115,1115,f:U\to \mathbb {C} ,/latexf/short/1115.png
+1116,1116,A=\pi xy.,/latexf/short/1116.png
+1117,1117,k_{v}=0,/latexf/short/1117.png
+1118,1118,d^{O(n^{2})},/latexf/short/1118.png
+1119,1119,X(t)=X_{L}(t)-X_{C}(t).,/latexf/short/1119.png
+1120,1120,"x(s)=x_{L}(s)-x_{C}(s),",/latexf/short/1120.png
+1121,1121,s\cdot x\leq |x|,/latexf/short/1121.png
+1122,1122,a_{p}\in \mathbf {Z} _{p},/latexf/short/1122.png
+1123,1123,k_{u},/latexf/short/1123.png
+1124,1124,"\beta \in K^{\times },",/latexf/short/1124.png
+1125,1125,\delta (\varepsilon )\to 0,/latexf/short/1125.png
+1126,1126,\sigma ,/latexf/short/1126.png
+1127,1127,(a+bi)+(c+di)=(a+c)+(b+d)i.,/latexf/short/1127.png
+1128,1128,"z(s)=r(s)+ix(s),",/latexf/short/1128.png
+1129,1129,4\pi ,/latexf/short/1129.png
+1130,1130,F_{2},/latexf/short/1130.png
+1131,1131,v,/latexf/short/1131.png
+1132,1132,"x_{1},\ldots ,x_{n},",/latexf/short/1132.png
+1133,1133,"(f\,x\,y)=((f\,x)\,y)",/latexf/short/1133.png
+1134,1134,f_{\lambda },/latexf/short/1134.png
+1135,1135,s=r\theta .,/latexf/short/1135.png
+1136,1136,{f(4(L+0.4d))}=v,/latexf/short/1136.png
+1137,1137,L_{eq}=L+0.75d,/latexf/short/1137.png
+1138,1138,"\eta \colon K\to Z(A),",/latexf/short/1138.png
+1139,1139,P\neq \emptyset .,/latexf/short/1139.png
+1140,1140,"a,\;b,\;c",/latexf/short/1140.png
+1141,1141,bigcap X_{i},/latexf/short/1141.png
+1142,1142,(xx)y=x(xy),/latexf/short/1142.png
+1143,1143,"\mathbb {Z} ^{s},",/latexf/short/1143.png
+1144,1144,2^{\kappa },/latexf/short/1144.png
+1145,1145,"{\vec {u}}(t)=(x(t),y(t))",/latexf/short/1145.png
+1146,1146,I_{K}^{1}.,/latexf/short/1146.png
+1147,1147,n\times n,/latexf/short/1147.png
+1148,1148,{\mathfrak {a}}_{i},/latexf/short/1148.png
+1149,1149,"|X|^{|Y|}=\left|X^{Y}\right|,",/latexf/short/1149.png
+1150,1150,y=x/2,/latexf/short/1150.png
+1151,1151,(-n)x=-(nx),/latexf/short/1151.png
+1152,1152,|\cdot |_{w},/latexf/short/1152.png
+1153,1153,v=r\omega ,/latexf/short/1153.png
+1154,1154,\xi \in K,/latexf/short/1154.png
+1155,1155,"y(t)=g(t)+ib(t),",/latexf/short/1155.png
+1156,1156,"L=r_{\perp }mv,",/latexf/short/1156.png
+1157,1157,K.,/latexf/short/1157.png
+1158,1158,ega ={\frac {d\phi }{dt}},/latexf/short/1158.png
+1159,1159,2(\ell w+\ell h+wh),/latexf/short/1159.png
+1160,1160,{\widehat {O}}^{\times },/latexf/short/1160.png
+1161,1161,A_{v}.,/latexf/short/1161.png
+1162,1162,\operatorname {Re} \alpha <0,/latexf/short/1162.png
+1163,1163,0<|x-a|<\delta ,/latexf/short/1163.png
+1164,1164,1+0+0+0+\ldots =0,/latexf/short/1164.png
+1165,1165,"v<\infty ,dx_{v}",/latexf/short/1165.png
+1166,1166,F_{k},/latexf/short/1166.png
+1167,1167,"d_{i,i}",/latexf/short/1167.png
+1168,1168,{\hat {f}}_{1}(\xi ),/latexf/short/1168.png
+1169,1169,\delta _{A}-\delta _{B}\ll 1,/latexf/short/1169.png
+1170,1170,\pi r^{2},/latexf/short/1170.png
+1171,1171,\kappa ,/latexf/short/1171.png
+1172,1172,p(x+e),/latexf/short/1172.png
+1173,1173,\epsilon ,/latexf/short/1173.png
+1174,1174,\lim _{x\to a}f(f(x))=1,/latexf/short/1174.png
+1175,1175,c_{n},/latexf/short/1175.png
+1176,1176,V.,/latexf/short/1176.png
+1177,1177,N_{f_{i}},/latexf/short/1177.png
+1178,1178,e^{j\phi }\approx 1+j\phi ,/latexf/short/1178.png
+1179,1179,|x|,/latexf/short/1179.png
+1180,1180,"W,",/latexf/short/1180.png
+1181,1181,-i\hbar ,/latexf/short/1181.png
+1182,1182,"g_{b}(Z_{k,b})",/latexf/short/1182.png
+1183,1183,{\mathfrak {p}}_{v},/latexf/short/1183.png
+1184,1184,\mathbf {v} _{2},/latexf/short/1184.png
+1185,1185,s_{n}=1-{\frac {1}{2^{n}}}.,/latexf/short/1185.png
+1186,1186,P(5)>0,/latexf/short/1186.png
+1187,1187,"T_{k,n}=T_{k,n-1}+T_{k-1,k-n}",/latexf/short/1187.png
+1188,1188,G.,/latexf/short/1188.png
+1189,1189,2^{\aleph _{0}}.,/latexf/short/1189.png
+1190,1190,x<1,/latexf/short/1190.png
+1191,1191,\theta \in \mathbb {C} ,/latexf/short/1191.png
+1192,1192,"r,d,C,",/latexf/short/1192.png
+1193,1193,U_{v},/latexf/short/1193.png
+1194,1194,"[0,N)",/latexf/short/1194.png
+1195,1195,e,/latexf/short/1195.png
+1196,1196,f.,/latexf/short/1196.png
+1197,1197,"(4/2)/2\,\neq \,4/(2/2)",/latexf/short/1197.png
+1198,1198,\{f(x)|x\in A\},/latexf/short/1198.png
+1199,1199,|x|=1,/latexf/short/1199.png
+1200,1200,{\hat {n}},/latexf/short/1200.png
+1201,1201,x={\frac {1}{2}},/latexf/short/1201.png
+1202,1202,N_{L/K}:I_{L}\to I_{K}.,/latexf/short/1202.png
+1203,1203,"I_{j},j\in J",/latexf/short/1203.png
+1204,1204,f\times g,/latexf/short/1204.png
+1205,1205,H(\omega ),/latexf/short/1205.png
+1206,1206,e\cdot a=a\cdot e=a,/latexf/short/1206.png
+1207,1207,f(Q)-f(P)=\varphi (Q-P),/latexf/short/1207.png
+1208,1208,\scriptstyle \backsim ,/latexf/short/1208.png
+1209,1209,eq a_{n}+|a_{n}|\leq 2|a_{n}|,/latexf/short/1209.png
+1210,1210,"z\cdot {\overline {z}},",/latexf/short/1210.png
+1211,1211,"A_{v}^{\times },",/latexf/short/1211.png
+1212,1212,\mathbf {p} =m\mathbf {v} ,/latexf/short/1212.png
+1213,1213,"z=re^{i\theta },",/latexf/short/1213.png
+1214,1214,{\hat {f}}_{2}(\omega ),/latexf/short/1214.png
+1215,1215,"|\cdot |_{v},",/latexf/short/1215.png
+1216,1216,S_{2m}\leq L\leq S_{2m+1},/latexf/short/1216.png
+1217,1217,"(1,1,\ldots ).",/latexf/short/1217.png
+1218,1218,a'=(a'_{w})_{w}\in I_{L},/latexf/short/1218.png
+1219,1219,A_{0},/latexf/short/1219.png
+1220,1220,|k|=1,/latexf/short/1220.png
+1221,1221,p(t)=t-z,/latexf/short/1221.png
+1222,1222,r=r(\theta ),/latexf/short/1222.png
+1223,1223,r_{x},/latexf/short/1223.png
+1224,1224,"a_{1},\ldots ,a_{n}",/latexf/short/1224.png
+1225,1225,\mathbf {u} ,/latexf/short/1225.png
+1226,1226,1-2+4-8\ldots ={\frac {1}{3}},/latexf/short/1226.png
+1227,1227,"m,n",/latexf/short/1227.png
+1228,1228,a_{m},/latexf/short/1228.png
+1229,1229,K=\mathbb {Q} ,/latexf/short/1229.png
+1230,1230,e\in \mathbb {A} _{E},/latexf/short/1230.png
+1231,1231,k>n,/latexf/short/1231.png
+1232,1232,"\aleph _{\alpha },",/latexf/short/1232.png
+1233,1233,U,/latexf/short/1233.png
+1234,1234,\mu \mapsto {\hat {\mu }},/latexf/short/1234.png
+1235,1235,(x^{y})^{z}=x^{(yz)},/latexf/short/1235.png
+1236,1236,(a),/latexf/short/1236.png
+1237,1237,"a_{1},a_{2},\ldots ,a_{r}",/latexf/short/1237.png
+1238,1238,\mathbb {Z} _{8},/latexf/short/1238.png
+1239,1239,{\dfrac {2}{3/4}},/latexf/short/1239.png
+1240,1240,x=2/3,/latexf/short/1240.png
+1241,1241,x_{v}^{-1}\in O_{v},/latexf/short/1241.png
+1242,1242,kL=n\pi -\tan ^{-1}kx,/latexf/short/1242.png
+1243,1243,M=\sum _{i}m_{i}.,/latexf/short/1243.png
+1244,1244,\beta _{v}=1,/latexf/short/1244.png
+1245,1245,\mathbf {Z} [{\sqrt {-5}}],/latexf/short/1245.png
+1246,1246,"L=rmv\sin(\theta ),",/latexf/short/1246.png
+1247,1247,{\hat {f}}(\xi ),/latexf/short/1247.png
+1248,1248,\mathbb {A} _{E}',/latexf/short/1248.png
+1249,1249,A,/latexf/short/1249.png
+1250,1250,{f\lambda }=v,/latexf/short/1250.png
+1251,1251,\mathrm {GL} ,/latexf/short/1251.png
+1252,1252,"y=f(x),",/latexf/short/1252.png
+1253,1253,\varepsilon >0,/latexf/short/1253.png
+1254,1254,|z|,/latexf/short/1254.png
+1255,1255,"(a,b)+(c,d)=(a+c,b+d).",/latexf/short/1255.png
+1256,1256,+1\cdot x\leq |x|,/latexf/short/1256.png
+1257,1257,"t f(x)\,dx=F(x)+C",/latexf/short/1257.png
+1258,1258,a<0,/latexf/short/1258.png
+1259,1259,\sin a\approx a,/latexf/short/1259.png
+1260,1260,\mathbf {R} _{i},/latexf/short/1260.png
+1261,1261,\lim _{x\to p}f(x)=L,/latexf/short/1261.png
+1262,1262,(u_{p})_{p},/latexf/short/1262.png
+1263,1263,(a_{\nu }),/latexf/short/1263.png
+1264,1264,|\beta |_{p}\leq 1,/latexf/short/1264.png
+1265,1265,{\frac {dr}{dt}},/latexf/short/1265.png
+1266,1266,"E(P)=K(P)^{\times },",/latexf/short/1266.png
+1267,1267,"f(x,x)=0.",/latexf/short/1267.png
+1268,1268,K_{i}(x_{i}).,/latexf/short/1268.png
+1269,1269,"v_{|\cdot |},",/latexf/short/1269.png
+1270,1270,\ell =r\phi ,/latexf/short/1270.png
+1271,1271,"\lambda ^{n}=1,",/latexf/short/1271.png
+1272,1272,Z(G),/latexf/short/1272.png
+1273,1273,W_{\alpha },/latexf/short/1273.png
+1274,1274,g(x)=3x+7,/latexf/short/1274.png
+1275,1275,"f(x,y)=x+y",/latexf/short/1275.png
+1276,1276,<,/latexf/short/1276.png
+1277,1277,x=C(x).,/latexf/short/1277.png
+1278,1278,h(x)=\Im {(f(x))},/latexf/short/1278.png
+1279,1279,"U\subset I_{K},",/latexf/short/1279.png
+1280,1280,x^{5}-x-1,/latexf/short/1280.png
+1281,1281,a+(180,/latexf/short/1281.png
+1282,1282,"(x,x)\in R",/latexf/short/1282.png
+1283,1283,\tan ^{2}A+1=\sec ^{2}A\ ,/latexf/short/1283.png
+1284,1284,a_{w}\in K_{v}^{\times },/latexf/short/1284.png
+1285,1285,\delta _{v}>0,/latexf/short/1285.png
+1286,1286,"Z_{k,b}",/latexf/short/1286.png
+1287,1287,{\acute {A}}_{0},/latexf/short/1287.png
+1288,1288,"x,y\in A",/latexf/short/1288.png
+1289,1289,P(x)=0,/latexf/short/1289.png
+1290,1290,0+1+1+1+\ldots =0,/latexf/short/1290.png
+1291,1291,"\xi \in E,",/latexf/short/1291.png
+1292,1292,|X|+|Y|=|X\cup Y|.,/latexf/short/1292.png
+1293,1293,"A=K,",/latexf/short/1293.png
+1294,1294,|a_{n}|,/latexf/short/1294.png
+1295,1295,0.111\ldots ={\frac {1}{9}},/latexf/short/1295.png
+1296,1296,\varepsilon ,/latexf/short/1296.png
+1297,1297,k_{x}^{i}={\frac {k_{x}}{M}},/latexf/short/1297.png
+1298,1298,\nu ^{\lambda }=\kappa ,/latexf/short/1298.png
+1299,1299,\mathbb {Z} [\zeta _{n}],/latexf/short/1299.png
+1300,1300,\mathbb {H} ,/latexf/short/1300.png
+1301,1301,{\dot {r}},/latexf/short/1301.png
+1302,1302,0},/latexf/short/1302.png
+1303,1303,"Q(t)=[G*p](t),",/latexf/short/1303.png
+1304,1304,m _{n=1}^{\infty }n,/latexf/short/1304.png
+1305,1305,"\lim _{x\to \infty }f(x)=L,",/latexf/short/1305.png
+1306,1306,XYXXY,/latexf/short/1306.png
+1307,1307,n\to \infty ,/latexf/short/1307.png
+1308,1308,|z|=r.,/latexf/short/1308.png
+1309,1309,\alpha -\beta \in W.,/latexf/short/1309.png
+1310,1310,BA,/latexf/short/1310.png
+1311,1311,e_{k}(x),/latexf/short/1311.png
+1312,1312,S=2,/latexf/short/1312.png
+1313,1313,\lambda \in \Lambda ,/latexf/short/1313.png
+1314,1314,r_{z},/latexf/short/1314.png
+1315,1315,\beta \in \mathbb {Z} .,/latexf/short/1315.png
+1316,1316,n+1,/latexf/short/1316.png
+1317,1317,K^{n},/latexf/short/1317.png
+1318,1318,E.,/latexf/short/1318.png
+1319,1319,w'|v,/latexf/short/1319.png
+1320,1320,"x,y\in S.",/latexf/short/1320.png
+1321,1321,"p,",/latexf/short/1321.png
+1322,1322,k_{1},/latexf/short/1322.png
+1323,1323,I_{b},/latexf/short/1323.png
+1324,1324,O(n^{2}).,/latexf/short/1324.png
+1325,1325,x^{-1}=y,/latexf/short/1325.png
+1326,1326,"w,w'",/latexf/short/1326.png
+1327,1327,b=b_{1}+ib_{2},/latexf/short/1327.png
+1328,1328,a=(a_{v})_{v}\in I_{K},/latexf/short/1328.png
+1329,1329,|\alpha _{p}|>1.,/latexf/short/1329.png
+1330,1330,"1,3,7,15,\ldots ;",/latexf/short/1330.png
+1331,1331,A^{\mathrm {T} },/latexf/short/1331.png
+1332,1332,M_{v},/latexf/short/1332.png
+1333,1333,\eta ,/latexf/short/1333.png
+1334,1334,"A=\int _{a}^{b}f(x)\,dx.",/latexf/short/1334.png
+1335,1335,\int ,/latexf/short/1335.png
+1336,1336,I_{K}^{1},/latexf/short/1336.png
+1337,1337,\ell ,/latexf/short/1337.png
+1338,1338,A={\frac {1}{2}}bh,/latexf/short/1338.png
+1339,1339,"\forall ,\exists ",/latexf/short/1339.png
+1340,1340,i,/latexf/short/1340.png
+1341,1341,k=N-1,/latexf/short/1341.png
+1342,1342,"z\neq 1,\ |z|=1",/latexf/short/1342.png
+1343,1343,e+2b=180,/latexf/short/1343.png
+1344,1344,\mathbf {Z} [i],/latexf/short/1344.png
+1345,1345,1\in I_{K}.,/latexf/short/1345.png
+1346,1346,"12,24,36,48,60,72,...",/latexf/short/1346.png
+1347,1347,rac {1}{2}}(1+i{\sqrt {3}}).,/latexf/short/1347.png
+1348,1348,"p=mv,",/latexf/short/1348.png
+1349,1349,\omega ={\frac {v}{r}},/latexf/short/1349.png
+1350,1350,\chi _{v},/latexf/short/1350.png
+1351,1351,{\mathcal {B}},/latexf/short/1351.png
+1352,1352,X,/latexf/short/1352.png
+1353,1353,(P\rightarrow Q),/latexf/short/1353.png
+1354,1354,\zeta _{n}=\exp {2\pi i/n},/latexf/short/1354.png
+1355,1355,a\in K^{\times }.,/latexf/short/1355.png
+1356,1356,z\mapsto 1+2z,/latexf/short/1356.png
+1357,1357,\operatorname {char} (K)=0.,/latexf/short/1357.png
+1358,1358,C:S\to S,/latexf/short/1358.png
+1359,1359,\nu ^{\mu }=\kappa ,/latexf/short/1359.png
+1360,1360,"~G(k_{x},k_{y})",/latexf/short/1360.png
+1361,1361,f+g,/latexf/short/1361.png
+1362,1362,\mathbb {A} _{A},/latexf/short/1362.png
+1363,1363,"k_{v_{0}}\in \mathbb {Z} ,",/latexf/short/1363.png
+1364,1364,"\gcd(54,24)=6.",/latexf/short/1364.png
+1365,1365,\aleph _{1},/latexf/short/1365.png
+1366,1366,A_{F},/latexf/short/1366.png
+1367,1367,\sum _{n=1}^{\infty }1,/latexf/short/1367.png
+1368,1368,m |a_{n}|,/latexf/short/1368.png
+1369,1369,"\alpha \in I_{L},",/latexf/short/1369.png
+1370,1370,q\in \mathbb {Q} ^{\times },/latexf/short/1370.png
+1371,1371,\varepsilon _{\rm {a}},/latexf/short/1371.png
+1372,1372,"\mathbf {L} (\mathbf {r} ,t)",/latexf/short/1372.png
+1373,1373,x\in S,/latexf/short/1373.png
+1374,1374,pha _{i},/latexf/short/1374.png
+1375,1375,D,/latexf/short/1375.png
+1376,1376,"\varphi ,\lambda ",/latexf/short/1376.png
+1377,1377,O.,/latexf/short/1377.png
+1378,1378,"n\geq 1,k\geq 0",/latexf/short/1378.png
+1379,1379,\tau ,/latexf/short/1379.png
+1380,1380,|x_{v}|_{v}\leq 1,/latexf/short/1380.png
+1381,1381,"s=0,",/latexf/short/1381.png
+1382,1382,{\frac {\sqrt[{3}]{3}}{2}},/latexf/short/1382.png
+1383,1383,"(i,j)",/latexf/short/1383.png
+1384,1384,k_{x},/latexf/short/1384.png
+1385,1385,y(xx)=(yx)x,/latexf/short/1385.png
+1386,1386,\mathbf {OB} ,/latexf/short/1386.png
+1387,1387,b_{i},/latexf/short/1387.png
+1388,1388,\alpha -r_{p},/latexf/short/1388.png
+1389,1389,P_{\infty }.,/latexf/short/1389.png
+1390,1390,\ \varphi _{n}\ ,/latexf/short/1390.png
+1391,1391,m=1,/latexf/short/1391.png
+1392,1392,\mathbb {C} .,/latexf/short/1392.png
+1393,1393,x^{2}<1-y^{2},/latexf/short/1393.png
+1394,1394,"\{1,2,\ldots ,I_{b}\}",/latexf/short/1394.png
+1395,1395,"(k,n)",/latexf/short/1395.png
+1396,1396,\operatorname {Gal} (F/E),/latexf/short/1396.png
+1397,1397,2k_{x},/latexf/short/1397.png
+1398,1398,"(j,i)",/latexf/short/1398.png
+1399,1399,"f(X,y)=g(X,y)",/latexf/short/1399.png
+1400,1400,[F(x)-G(x)]'=0,/latexf/short/1400.png
+1401,1401,P(x)=x^{3}-15x-20,/latexf/short/1401.png
+1402,1402,x=b/2,/latexf/short/1402.png
+1403,1403,\left(x^{2}+y^{2}\right),/latexf/short/1403.png
+1404,1404,{\hat {f}}(3),/latexf/short/1404.png
+1405,1405,AOR(360a+b)=AOR(b),/latexf/short/1405.png
+1406,1406,\alpha \mapsto \alpha _{j},/latexf/short/1406.png
+1407,1407,\scriptstyle b-x,/latexf/short/1407.png
+1408,1408,a_{n},/latexf/short/1408.png
+1409,1409,6s^{2},/latexf/short/1409.png
+1410,1410,C_{K}:=I_{K}/K^{\times },/latexf/short/1410.png
+1411,1411,\mathbf {a} ,/latexf/short/1411.png
+1412,1412,|\cdot |,/latexf/short/1412.png
+1413,1413,r_{\perp }=r\sin(\theta ),/latexf/short/1413.png
+1414,1414,A_{n},/latexf/short/1414.png
+1415,1415,s^{\overline {2m-1}},/latexf/short/1415.png
+1416,1416,x^{y^{z}},/latexf/short/1416.png
+1417,1417,N\to \infty ,/latexf/short/1417.png
+1418,1418,A_{v}^{\times }.,/latexf/short/1418.png
+1419,1419,k\leq n,/latexf/short/1419.png
+1420,1420,frac {1}{2}}\ln(2),/latexf/short/1420.png
+1421,1421,e_{k}(x)=e^{2\pi ikx},/latexf/short/1421.png
+1422,1422,x\in A,/latexf/short/1422.png
+1423,1423,\varphi =0,/latexf/short/1423.png
+1424,1424,\mathbf {s} _{0},/latexf/short/1424.png
+1425,1425,prod _{p}p^{a_{p}},/latexf/short/1425.png
+1426,1426,S\subseteq \mathbb {R} ,/latexf/short/1426.png
+1427,1427,g:A^{n}\to B,/latexf/short/1427.png
+1428,1428,{\mathcal {W}},/latexf/short/1428.png
+1429,1429,x\leq C(x),/latexf/short/1429.png
+1430,1430,c=C=1,/latexf/short/1430.png
+1431,1431,\mathbf {v} _{1},/latexf/short/1431.png
+1432,1432,s=\infty ,/latexf/short/1432.png
+1433,1433,"(r,\phi )",/latexf/short/1433.png
+1434,1434,a\cdot b,/latexf/short/1434.png
+1435,1435,A_{K/L}(x),/latexf/short/1435.png
+1436,1436,\mathbf {A} _{n},/latexf/short/1436.png
+1437,1437,"\chi ([e,e^{\star }])=1",/latexf/short/1437.png
+1438,1438,{\frac {OAO}{HHA}},/latexf/short/1438.png
+1439,1439,G,/latexf/short/1439.png
+1440,1440,"a\mapsto (a,a,a,\ldots ).",/latexf/short/1440.png
+1441,1441,\alpha ={\dot {\omega }},/latexf/short/1441.png
+1442,1442,2^{(x+3)},/latexf/short/1442.png
+1443,1443,x_{2}\neq 0,/latexf/short/1443.png
+1444,1444,A\times A,/latexf/short/1444.png
+1445,1445,\psi ,/latexf/short/1445.png
+1446,1446,m 2|a_{n}|,/latexf/short/1446.png
+1447,1447,\alpha -1,/latexf/short/1447.png
+1448,1448,"i=0,1,\dotsc ,N.",/latexf/short/1448.png
+1449,1449,"K,r",/latexf/short/1449.png
+1450,1450,"(x,z).",/latexf/short/1450.png
+1451,1451,x\in \mathbb {Q} (\theta ),/latexf/short/1451.png
+1452,1452,y_{k},/latexf/short/1452.png
+1453,1453,p_{2},/latexf/short/1453.png
+1454,1454,"g(x_{1},x_{2},\dots x_{n})=0",/latexf/short/1454.png
+1455,1455,{\mathcal {A}}_{n},/latexf/short/1455.png
+1456,1456,\ x\ ,/latexf/short/1456.png
+1457,1457,f:A^{2}\to B,/latexf/short/1457.png
+1458,1458,"\quad k,n\in \mathbb {N} ",/latexf/short/1458.png
+1459,1459,N({\mathfrak {p}}),/latexf/short/1459.png
+1460,1460,n.,/latexf/short/1460.png
+1461,1461,"K\oplus \cdots \oplus K,",/latexf/short/1461.png
+1462,1462,R^{\times },/latexf/short/1462.png
+1463,1463,-4b,/latexf/short/1463.png
+1464,1464,"J_{K},",/latexf/short/1464.png
+1465,1465,1+2+3+\ldots =x,/latexf/short/1465.png
+1466,1466,m=n+1,/latexf/short/1466.png
+1467,1467,G_{i},/latexf/short/1467.png
+1468,1468,"e_{0},\ldots ,e_{m}",/latexf/short/1468.png
+1469,1469,w|v,/latexf/short/1469.png
+1470,1470,dy/dx,/latexf/short/1470.png
+1471,1471,K=\mathbb {Q} .,/latexf/short/1471.png
+1472,1472,{\hat {f}}(-\xi ).,/latexf/short/1472.png
+1473,1473,R=e^{W\cdot dt},/latexf/short/1473.png
+1474,1474,m _{n=1}^{\infty }n^{-s},/latexf/short/1474.png
+1475,1475,D\gg d,/latexf/short/1475.png
+1476,1476,\rho _{C},/latexf/short/1476.png
+1477,1477,P=\emptyset ,/latexf/short/1477.png
+1478,1478,\mathbb {Z} [x],/latexf/short/1478.png
+1479,1479,\delta (\varepsilon ),/latexf/short/1479.png
+1480,1480,p=mv,/latexf/short/1480.png
+1481,1481,"\lambda \in \mathbb {R} _{+},",/latexf/short/1481.png
+1482,1482,\mathbf {k} ,/latexf/short/1482.png
+1483,1483,"i(x,y)",/latexf/short/1483.png
+1484,1484,B,/latexf/short/1484.png
+1485,1485,"1,2,\ldots ,k_{1}",/latexf/short/1485.png
+1486,1486,\mathbf {F} =m\mathbf {a} ,/latexf/short/1486.png
+1487,1487,"(a,\infty )",/latexf/short/1487.png
+1488,1488,"T_{k,0}=a_{k}",/latexf/short/1488.png
+1489,1489,N_{L/K}(\alpha ),/latexf/short/1489.png
+1490,1490,2\sin(x)\cos(x),/latexf/short/1490.png
+1491,1491,L=rmv,/latexf/short/1491.png
+1492,1492,\alpha \in I_{K}.,/latexf/short/1492.png
+1493,1493,n=4,/latexf/short/1493.png
+1494,1494,Q(X)\in \mathbb {Q} _{p}[X],/latexf/short/1494.png
+1495,1495,xy-1=0,/latexf/short/1495.png
+1496,1496,k(L+x)\approx n\pi ,/latexf/short/1496.png
+1497,1497,"v<\infty ,",/latexf/short/1497.png
+1498,1498,\scriptstyle x,/latexf/short/1498.png
+1499,1499,"\mathbb {A} _{A}(P,\alpha )",/latexf/short/1499.png
+1500,1500,"x+y+z=0.\,",/latexf/short/1500.png
+1501,1501,"5+13{\sqrt {2}},",/latexf/short/1501.png
+1502,1502,\left|f'\right|,/latexf/short/1502.png
+1503,1503,|X|\cdot |Y|=|X\times Y|,/latexf/short/1503.png
+1504,1504,\xi ^{n}\neq 1,/latexf/short/1504.png
+1505,1505,x_{v}\in O_{v},/latexf/short/1505.png
+1506,1506,\operatorname {con} ,/latexf/short/1506.png
+1507,1507,b_{i}=1,/latexf/short/1507.png
+1508,1508,\Phi ,/latexf/short/1508.png
+1509,1509,"e,",/latexf/short/1509.png
+1510,1510,"x\mapsto (x,x^{-1})",/latexf/short/1510.png
+1511,1511,b\backsim 2x+e.,/latexf/short/1511.png
+1512,1512,\alpha (\omega ),/latexf/short/1512.png
+1513,1513,\alpha =(\alpha _{v})_{v},/latexf/short/1513.png
+1514,1514,"[x_{1},x_{2},x_{3},x_{4}]",/latexf/short/1514.png
+1515,1515,1\leq i\leq n,/latexf/short/1515.png
+1516,1516,v(\xi )\geq 0,/latexf/short/1516.png
+1517,1517,x\in T,/latexf/short/1517.png
+1518,1518,+,/latexf/short/1518.png
+1519,1519,"a\in K,",/latexf/short/1519.png
+1520,1520,F/E,/latexf/short/1520.png
+1521,1521,"Y(s)=G(s)+iB(s),",/latexf/short/1521.png
+1522,1522,\mathbf {v} (t),/latexf/short/1522.png
+1523,1523,{\mathcal {R}},/latexf/short/1523.png
+1524,1524,s\in S,/latexf/short/1524.png
+1525,1525,\mathbb {F} _{p},/latexf/short/1525.png
+1526,1526,a=(a_{w})_{w}\in I_{L},/latexf/short/1526.png
+1527,1527,r\in \mathbb {N} ,/latexf/short/1527.png
+1528,1528,u\in \mathbb {N} ,/latexf/short/1528.png
+1529,1529,"R,",/latexf/short/1529.png
+1530,1530,"L,",/latexf/short/1530.png
+1531,1531,"s=|P|-1,",/latexf/short/1531.png
+1532,1532,"K=\mathbb {Q} ({\sqrt {d}}\,)",/latexf/short/1532.png
+1533,1533,X\in K,/latexf/short/1533.png
+1534,1534,\phi ,/latexf/short/1534.png
+1535,1535,x_{1},/latexf/short/1535.png
+1536,1536,pha _{o},/latexf/short/1536.png
+1537,1537,s=1,/latexf/short/1537.png
+1538,1538,n_{T},/latexf/short/1538.png
+1539,1539,\lim _{x\to a}f(g(x))=c,/latexf/short/1539.png
+1540,1540,\mathbb {R} ^{1},/latexf/short/1540.png
+1541,1541,bx-x^{2},/latexf/short/1541.png
+1542,1542,"d_{\mathrm {act} },",/latexf/short/1542.png
+1543,1543,"f(1)=-1,",/latexf/short/1543.png
+1544,1544,rac {d}{dx}}x,/latexf/short/1544.png
+1545,1545,a_{n}\geq a_{n+1},/latexf/short/1545.png
+1546,1546,\lim _{y\to b}f(y)=c,/latexf/short/1546.png
+1547,1547,"\omega =2\pi \xi ,",/latexf/short/1547.png
+1548,1548,x=0,/latexf/short/1548.png
+1549,1549,f(x)\to L,/latexf/short/1549.png
+1550,1550,"\mathbb {R} _{+},",/latexf/short/1550.png
+1551,1551,dx_{\infty },/latexf/short/1551.png
+1552,1552,"K^{\times },",/latexf/short/1552.png
+1553,1553,"0=1+s,",/latexf/short/1553.png
+1554,1554,4,/latexf/short/1554.png
+1555,1555,"S,",/latexf/short/1555.png
+1556,1556,y=1-x,/latexf/short/1556.png
+1557,1557,"M',M,M''",/latexf/short/1557.png
+1558,1558,"\gamma :[0,1]\rightarrow M",/latexf/short/1558.png
+1559,1559,"{\mathcal {S}}_{n},",/latexf/short/1559.png
+1560,1560,2k,/latexf/short/1560.png
+1561,1561,\mu (K),/latexf/short/1561.png
+1562,1562,\beta \in \mathbb {Q} ,/latexf/short/1562.png
+1563,1563,x\in X,/latexf/short/1563.png
+1564,1564,\mathbf {r} _{io},/latexf/short/1564.png
+1565,1565,"\oint _{C}f(z)dz=0,",/latexf/short/1565.png
+1566,1566,P\to Q,/latexf/short/1566.png
+1567,1567,\exists ;,/latexf/short/1567.png
+1568,1568,"g:U\to \mathbb {C} ,",/latexf/short/1568.png
+1569,1569,f(x),/latexf/short/1569.png
+1570,1570,5+0=5=0+5.,/latexf/short/1570.png
+1571,1571,"B=\{b_{1},\ldots ,b_{n}\}.",/latexf/short/1571.png
+1572,1572,G=T,/latexf/short/1572.png
+1573,1573,dx=-x/{\sqrt {1-x^{2}}},/latexf/short/1573.png
+1574,1574,(1+{\sqrt {5}})/2,/latexf/short/1574.png
+1575,1575,"(k-1,j+1)",/latexf/short/1575.png
+1576,1576,\mathbf {A} ,/latexf/short/1576.png
+1577,1577,x/y/z=(x/y)/z,/latexf/short/1577.png
+1578,1578,x_{n}-1\in U,/latexf/short/1578.png
+1579,1579,z\mapsto |z|,/latexf/short/1579.png
+1580,1580,Pos,/latexf/short/1580.png
+1581,1581,x_{i},/latexf/short/1581.png
+1582,1582,X_{k},/latexf/short/1582.png
+1583,1583,={\sqrt {x\cdot x}},/latexf/short/1583.png
+1584,1584,"(x,y)\in R.",/latexf/short/1584.png
+1585,1585,"(y,x).",/latexf/short/1585.png
+1586,1586,\nu ,/latexf/short/1586.png
+1587,1587,\mathbf {L} =m\mathbf {h} .,/latexf/short/1587.png
+1588,1588,\mathbb {Q} _{p},/latexf/short/1588.png
+1589,1589,r_{1},/latexf/short/1589.png
+1590,1590,"(x,y)",/latexf/short/1590.png
+1591,1591,t dx/x,/latexf/short/1591.png
+1592,1592,U_{v}\subset K_{v}^{\times },/latexf/short/1592.png
+1593,1593,\mathbf {Z} [\omega ],/latexf/short/1593.png
+1594,1594,\mathbb {Q} (i),/latexf/short/1594.png
+1595,1595,\eta \in K^{\times },/latexf/short/1595.png
+1596,1596,n\in \mathbb {N} ,/latexf/short/1596.png
+1597,1597,frac {d}{dx}},/latexf/short/1597.png
+1598,1598,"x_{i}=Mx_{o}\,",/latexf/short/1598.png
+1599,1599,[K:\mathbb {Q} ],/latexf/short/1599.png
+1600,1600,\alpha \in \mathbb {A} _{L},/latexf/short/1600.png
+1601,1601,a\cdot b=b\cdot a,/latexf/short/1601.png
+1602,1602,\%,/latexf/short/1602.png
+1603,1603,{\frac {11}{18}},/latexf/short/1603.png
+1604,1604,|\cdot |_{1},/latexf/short/1604.png
+1605,1605,dy,/latexf/short/1605.png
+1606,1606,\zeta (s),/latexf/short/1606.png
+1607,1607,B_{x},/latexf/short/1607.png
+1608,1608,"\lim _{x\to p}f(x)=L,\,",/latexf/short/1608.png
+1609,1609,O_{F}/{\mathfrak {p}},/latexf/short/1609.png
+1610,1610,R\to A,/latexf/short/1610.png
+1611,1611,(4n+2)C_{n}=(n+2)C_{n+1},/latexf/short/1611.png
+1612,1612,\delta >0,/latexf/short/1612.png
+1613,1613,x^{2}/2,/latexf/short/1613.png
+1614,1614,x_{v}\in O_{v}^{\times },/latexf/short/1614.png
+1615,1615,"\min(x,y)+\max(x,y)=x+y,",/latexf/short/1615.png
+1616,1616,"N\to \infty ,",/latexf/short/1616.png
+1617,1617,\beta \in K^{\times },/latexf/short/1617.png
+1618,1618,"v(t)=[g*p](t),",/latexf/short/1618.png
+1619,1619,u^{2}=v,/latexf/short/1619.png
+1620,1620,"(-\infty ,0)\cup (0,\infty ).",/latexf/short/1620.png
+1621,1621,|G|,/latexf/short/1621.png
+1622,1622,P_{0},/latexf/short/1622.png
