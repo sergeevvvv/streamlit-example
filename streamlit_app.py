@@ -1,4 +1,5 @@
 import torch
+import pickle5 as p
 
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 device = DEVICE
@@ -198,13 +199,13 @@ def create_mask(src, tgt):
 transformer2 = torch.load('model_production.model', map_location=torch.device('cpu'))
 
 with open('ja_vocab_production.pickle', 'rb') as handle:
-    ja_vocab2 = pickle.load(handle)
+    ja_vocab2 = p.load(handle)
     
 with open('en_vocab_production.pickle', 'rb') as handle:
-    en_vocab2 = pickle.load(handle)
+    en_vocab2 = p.load(handle)
     
 with open('tokenizer_production.pickle', 'rb') as handle:
-    ja_tokenizer2 = pickle.load(handle)
+    ja_tokenizer2 = p.load(handle)
          
 def tr(word):
     eq = translate(transformer2, word, ja_vocab2, en_vocab2, ja_tokenizer2)
