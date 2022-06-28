@@ -228,11 +228,11 @@ st.markdown('Данная сборка модели обучена на ариф
 
 text = st.text_input('Введите формулу словами', value="два икс плюс три")
 
-def translate(string):
+def print_ans(string):
     return tr(string)
 
 if st.button('Показать формулу'):
-    ans = translate(text)
+    ans = print_ans(text)
     st.text('Формула в "сыром" LaTeX:')
     st.text(ans)
     
